@@ -1,0 +1,5 @@
+menu:
+- {name: 'Home', url: '/index'}
+- {name: 'Publications', url: '/publications'}
+- {name: 'CV', url: '/cv'}
+

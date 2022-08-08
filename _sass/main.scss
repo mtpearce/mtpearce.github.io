@@ -1,0 +1,175 @@
+/* variables */ 
+
+$backgroundColor: #ffffff;
+$bodyColor: #000000;
+$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$linkColor: #212529 !important;
+$github-color               : #171516;
+
+$gray                       : #7a8288;
+$dark-gray                  : mix(#000, $gray, 40%);
+$darker-gray                : mix(#000, $gray, 60%);
+$light-gray                 : mix(#fff, $gray, 50%);
+$lighter-gray               : mix(#fff, $gray, 90%);
+
+$border-radius              : 4px;
+$border-color               : $lighter-gray;
+
+
+
+/* Standard Elements */
+
+html {
+    overflow-y: scroll;
+    height: 100%;
+    margin-bottom: 0.01em;
+}
+
+body {
+    background: $backgroundColor;
+    color: $bodyColor;
+    font-size: small; 
+    font-family: $bodyFont;
+    text-align: left; 
+}
+
+a {
+    color: $linkColor; 
+    text-decoration: none;               
+}
+
+a:visited {
+    color: $linkColor; 
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    padding: 0px;
+    padding-top: 0px;
+    border-style: none;
+    align: left; 
+    vertical-align: top; 
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li:not(:last-child) {
+    margin-bottom: 5px;
+}
+
+
+/* Side bar on main page */
+
+.author__urls-wrapper {
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
+  font-family: $sans-serif;
+  z-index: 10;
+  position: relative;
+  cursor: pointer;
+
+  li:last-child {
+    a {
+      margin-bottom: 0;
+    }
+  }
+
+  button {
+    margin-bottom: 0;
+  }
+}
+
+.social-icons {
+    a {
+        white-space: nowrap;
+    }
+    
+    .fa {
+        color: #000;
+    }
+    
+    .fa-github,
+    .fa-github-alt,
+    .fa-github-square {
+        color: $github-color;
+    }
+}
+
+
+/* home page */ 
+
+.container {
+    height: auto;
+    overflow: hidden;
+}
+
+.left {
+    width: 25%;
+    float: left;
+    // border-right: thin solid $lighter-gray; 
+}
+
+.right {
+    width: auto;
+    float: right;
+    overflow: hidden;
+    margin-top: 35px; 
+
+    a {
+        text-decoration: underline;
+    }
+}
+
+
+/* publications page */
+
+.publications {
+    list-style-type: none;
+    font-size: small; 
+    list-style: none;
+    margin: 0px 0;
+    padding-left: 10px;
+    text-indent: -10px;
+    padding-bottom: 0px;
+}
+
+
+/* CV page */ 
+
+.body-table {
+    vertical-align: top;
+    text-align: left; 
+    border-spacing: 100px 100px;
+    margin-left: 0px;
+    padding: 100px 100px;
+    border-top: 0;
+    margin-top: 0;
+    padding-top: 0;  
+}
+
+.body-table tr td {
+    vertical-align: top;
+}
+
+.body-table td {
+    padding-right: 20px; 
+}
+
+.body-table thead {
+    font-style: italic;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+
+
+
+
