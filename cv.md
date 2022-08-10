@@ -78,12 +78,12 @@ title: "CV"
 
 <tr>
    <td>2022-2024</td>
-   <td>Investigating music perception with research on vocalisation (IMPROV)</td>
-   <td>Supervisor (Fellow: <a href="https://m-w-w.github.io/">Michael Weiss</a></td>
+   <td>Investigating Musical Prediction with Research On Vocalisation (IMPROV)</td>
+   <td>Supervisor (Fellow: <a href="https://m-w-w.github.io/">Michael Weiss</a>)</td>
    <td>Queen Mary University of London</td>
-   <td style="text-align: left"><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships"><img src="assets/img/ec.jpg" style="padding-left: 0pt; padding-top: 0pt"></td>
+   <td style="text-align: left"><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships"><img width="50px" src="assets/img/ec.jpg" style="padding-left: 0pt; padding-top: 0pt"></a></td>
    <td>MSCA postdoctoral fellowship 101065361</td>
-   <td>£204,031</td>
+   <td>&pound;204,031</td>
 </tr>
 
  <tr> 
