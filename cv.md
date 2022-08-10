@@ -31,9 +31,8 @@ title: "CV"
     <td>Research fellow at <a href="http://www.ucl.ac.uk/">UCL</a>, funded by the <a href="http://www.wellcome.ac.uk/">Wellcome Trust</a>.</td>
   </tr>
   <tr>    
-    <td> 2005-2008</td>
-    <td>
-      Research fellow at <a href="http://www.gold.ac.uk">Goldsmiths, University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
+    <td>2005-2008</td>
+    <td>Research fellow at <a href="http://www.gold.ac.uk">Goldsmiths, University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
   </tr>
   <!-- tr><td><a href="cv.pdf">Full CV</a></td><td></td></tr -->
 </table>
@@ -76,15 +75,25 @@ title: "CV"
       <td>Amount</td>
     </tr>
   </thead>
-                        
+
+<tr>
+   <td>2022-2024</td>
+   <td>Investigating music perception with research on vocalisation (IMPROV)</td>
+   <td>Supervisor (Fellow: <a href="https://m-w-w.github.io/">Michael Weiss</a></td>
+   <td>Queen Mary University of London</td>
+   <td style="text-align: left"><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships"><img src="assets/img/ec.jpg" style="padding-left: 0pt; padding-top: 0pt"></td>
+   <td>MSCA postdoctoral fellowship 101065361</td>
+   <td>£204,031</td>
+</tr>
+
  <tr> 
- <td>2017-2020</td>
- <td>How the brain detects patterns in sound sequences</td>	
- <td>Co-Investigator</td> 
- <td>Queen Mary, University of London (<a href="http://www.ucl.ac.uk/ear/research/chaitlab">Maria Chait, UCL</a>)</td>
- <td style="text-align: left"><a href="http://www.bbsrc.ac.uk"><img src="assets/img/bbsrc.png" style="padding-left: 0pt; padding-top: 0pt"></a></td>
- <td>BB/P003745/1</td>
- <td>&pound;491,276</td>
+    <td>2017-2020</td>
+    <td>How the brain detects patterns in sound sequences</td>	
+    <td>Co-Investigator</td> 
+    <td>Queen Mary, University of London (<a href="http://www.ucl.ac.uk/ear/research/chaitlab">Maria Chait, UCL</a>)</td>
+    <td style="text-align: left"><a href="http://www.bbsrc.ac.uk"><img src="assets/img/bbsrc.png" style="padding-left: 0pt; padding-top: 0pt"></a></td>
+    <td>BB/P003745/1</td>
+    <td>&pound;491,276</td>
  </tr>
  
  <tr> 
