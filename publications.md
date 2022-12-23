@@ -7,7 +7,11 @@ title: "Publications"
 
 <h5>2023</h5>
 
+<ul class="publications">
+
 <li>van der Weij, B., Pearce, M. T., & Honing, H. (2022). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford: Oxford University Press.</li>
+
+</ul>
 
 <h5>2022</h5> 
 
