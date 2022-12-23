@@ -5,6 +5,10 @@ title: "Publications"
 
 <p>Full list: <a href="http://scholar.google.co.uk/citations?user=UImWMekAAAAJ">http://scholar.google.co.uk/citations?user=UImWMekAAAAJ</a></p>
 
+<h5>2023</h5>
+
+<li>van der Weij, B., Pearce, M. T., & Honing, H. (2022). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford: Oxford University Press.</li>
+
 <h5>2022</h5> 
 
 <ul class="publications">
@@ -15,7 +19,11 @@ title: "Publications"
 
 <li>Clemente, A., Pearce, M. T., & Nadal, M. (2022). <a href="assets/papers/ClementeEtAl2022.pdf">Musical aesthetic sensitivity.</a> <i>Psychology of Aesthetics, Creativity and the Arts</i>, 16, 58-73. https://doi.org/10.1037/aca0000381</li>
 
-<li>van der Weij, B., Pearce, M. T., & Honing, H. (2022). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford: Oxford University Press.</li>
+<li>Agres, K., Tay, T. Y., & Pearce, M. T. (2022). <a href="assets/papers/AgresEtAl2022.pdf">Comparing Musicians and Non-musicians’ Expectations in Music and Vision.</a> In <i>Proceedings of the 17th International Audio Mostly Conference</i> (pp. 74-79). https://doi.org/10.1145/3561212.3561251</li>
+
+<li>Hansen, N. C., Højlund, A., Møller, C., Pearce, M. T., & Vuust, P. (2022). <a href="assets/papers/HansenEtAl2022.pdf">Musicians show more integrated neural processing of contextually relevant acoustic features.</a> <i>Frontiers in Neuroscience</i>, 16. https://doi.org/10.3389/fnins.2022.907540</li>
+
+<li>Kaplan, T., Cannon, J., Jamone, L., & Pearce, M. T. (2022). <a href="assets/papers/KaplanEtAl2022.pdf">Modeling enculturated bias in entrainment to rhythmic patterns.</a> <i>PLOS Computational Biology</i>, 18(9), e1010579.</li>
 
 </ul>
 
