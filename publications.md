@@ -27,7 +27,7 @@ title: "Publications"
 
 <li>Hansen, N. C., Højlund, A., Møller, C., Pearce, M. T., & Vuust, P. (2022). <a href="assets/papers/HansenEtAl2022.pdf">Musicians show more integrated neural processing of contextually relevant acoustic features.</a> <i>Frontiers in Neuroscience</i>, 16. https://doi.org/10.3389/fnins.2022.907540</li>
 
-<li>Kaplan, T., Cannon, J., Jamone, L., & Pearce, M. T. (2022). <a href="assets/papers/KaplanEtAl2022.pdf">Modeling enculturated bias in entrainment to rhythmic patterns.</a> <i>PLOS Computational Biology</i>, 18(9), e1010579. ttps://doi.org/10.1371/journal.pcbi.1010579</li>
+<li>Kaplan, T., Cannon, J., Jamone, L., & Pearce, M. T. (2022). <a href="assets/papers/KaplanEtAl2022.pdf">Modeling enculturated bias in entrainment to rhythmic patterns.</a> <i>PLOS Computational Biology</i>, 18(9), e1010579. https://doi.org/10.1371/journal.pcbi.1010579</li>
 
 </ul>
 
