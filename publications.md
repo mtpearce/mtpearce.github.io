@@ -9,6 +9,8 @@ title: "Publications"
 
 <ul class="publications">
 
+<li>Klarlund, M., Brattico, E., Pearce, M., Wu, Y., Vuust, P., Overgaard, M., & Du, Y. (2023). <a href="assets/papers/KlarlundEtAlEtAl2023.pdf">Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</a> <i>Cognition</i>, 235, 105405.</li>
+
 <li>van der Weij, B., Pearce, M. T., & Honing, H. (2022). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford: Oxford University Press.</li>
 
 </ul>
