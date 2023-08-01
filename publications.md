@@ -9,9 +9,11 @@ title: "Publications"
 
 <ul class="publications">
 
-<li>Pearce, M. T. (2023). <a href="https://oxfordre.com/psychology/display/10.1093/acrefore/9780190236557.001.0001/acrefore-9780190236557-e-890">Music Perception.</a> In <i>Oxford Research Encyclopedia of Psychology.</i> https://doi.org/10.1093/acrefore/9780190236557.013.890</li>
+<li>Pearce, M. T. (2023). <a href="assets/papers/Pearce2023.pdf">Music Perception.</a> In <i>Oxford Research Encyclopedia of Psychology.</i> https://doi.org/10.1093/acrefore/9780190236557.013.890</li>
 
 <li>Klarlund, M., Brattico, E., Pearce, M. T., Wu, Y., Vuust, P., Overgaard, M., & Du, Y. (2023). <a href="assets/papers/KlarlundEtAl2023.pdf">Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</a> <i>Cognition</i>, 235, 105405. https://doi.org/10.1016/j.cognition.2023.105405</li>
+
+<li>Kaplan, T., Jamone, L., & Pearce, M. T. (2023). <a href="assets/papers/KaplanEtAl2023.pdf">Probabilistic modelling of microtiming perception.</a> <i>Cognition</i>, 239, 105532. https://doi.org/10.1016/j.cognition.2023.105532</li>
 
 <li>van der Weij, B., Pearce, M. T., & Honing, H. (2023). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford: Oxford University Press.</li>
 
@@ -192,7 +194,7 @@ title: "Publications"
 <h5>2015</h5>
 
 <ul class="publications">
- <li>Pearce, M. T. (2015). <a href="assets/papers/Pearce2015.pdf">Effects of expertise on the cognitive and neural processes involved in musical appreciation.</a>  In J.P. Huston, M. Nadal, L. Agnati, F. Mora, and C.J. Cela-Conde (eds.), <i>The Oxford Handbook of Neuroaesthetics</i> (pp. 319-338). Oxford: Oxford University Press.</li>
+ <li>Pearce, M. T. (2015). <a href="assets/papers/Pearce2015.pdf">Effects of expertise on the cognitive and neural processes involved in musical appreciation.</a>  In J.P. Huston, M. Nadal, L. Agnati, F. Mora, and C.J. Cela-Conde (eds.), <i>Art, Aesthetics and the Brain</i> (pp. 319-338). Oxford: Oxford University Press.</li>
 
  <li>Pearce, M. T. & Halpern, A. R. (2015). <a href="assets/papers/PearceHalpern2015.pdf">Age-related patterns in emotions evoked by music.</a> <i>Psychology of Aesthetics, Creativity and the Arts</i>, 9, 248-253. https://doi.org/10.1037/a0039279</li>
 
