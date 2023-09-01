@@ -24,7 +24,7 @@ title: "CV"
   </tr>
   <tr>
     <td>2011-2015</td>
-    <td>Lecturer in Sound and Music Processing, <a href="http://www.qmul.ac.uk">Queen Mary University of London</a>.</td>
+    <td>Lecturer, <a href="http://www.qmul.ac.uk">Queen Mary University of London</a>.</td>
   </tr>
   <tr>
     <td>2010-2011</td>
