@@ -6,33 +6,37 @@ title: "CV"
 <h5>Positions</h5>
 
 <table class="body-table">
+  <tr>
+    <td>2023-date</td>
+    <td>Reader in Cognitive Science, <a href="http://www.qmul.ac.uk">Queen Mary University of London</a>.</td>
+  </tr>
   <tr>   
     <td>2019-date</td>
-    <td>Honorary Professor of Neuroscience at <a href="http://www.au.dk">Aarhus University</a>.</td>
+    <td>Honorary Professor of Neuroscience, <a href="http://www.au.dk">Aarhus University</a>.</td>
   </tr>
   <tr>   
     <td>2018-2019</td>
-    <td>Professor of Neuroscience at <a href="http://www.au.dk">Aarhus University</a>.</td>
+    <td>Professor of Neuroscience, <a href="http://www.au.dk">Aarhus University</a>.</td>
   </tr>
   <tr>
-    <td>2015-date</td>
-    <td>Senior Lecturer in Sound and Music Processing at <a href="http://www.qmul.ac.uk">Queen Mary University of London</a>.</td>
+    <td>2015-2023</td>
+    <td>Senior Lecturer, <a href="http://www.qmul.ac.uk">Queen Mary University of London</a>.</td>
   </tr>
   <tr>
     <td>2011-2015</td>
-    <td>Lecturer in Sound and Music Processing at <a href="http://www.qmul.ac.uk">Queen Mary University of London</a>.</td>
+    <td>Lecturer in Sound and Music Processing, <a href="http://www.qmul.ac.uk">Queen Mary University of London</a>.</td>
   </tr>
   <tr>
     <td>2010-2011</td>
-    <td>Researcher co-investigator at <a href="http://www.gold.ac.uk">Goldsmiths, University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
+    <td>Researcher co-investigator, <a href="http://www.gold.ac.uk">Goldsmiths, University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
   </tr>
   <tr>
     <td>2008-2009</td>
-    <td>Research fellow at <a href="http://www.ucl.ac.uk/">UCL</a>, funded by the <a href="http://www.wellcome.ac.uk/">Wellcome Trust</a>.</td>
+    <td>Research fellow, <a href="http://www.ucl.ac.uk/">UCL</a>, funded by the <a href="http://www.wellcome.ac.uk/">Wellcome Trust</a>.</td>
   </tr>
   <tr>    
     <td>2005-2008</td>
-    <td>Research fellow at <a href="http://www.gold.ac.uk">Goldsmiths, University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
+    <td>Research fellow, <a href="http://www.gold.ac.uk">Goldsmiths, University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
   </tr>
   <!-- tr><td><a href="cv.pdf">Full CV</a></td><td></td></tr -->
 </table>
