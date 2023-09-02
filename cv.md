@@ -28,7 +28,7 @@ title: "CV"
   </tr>
   <tr>
     <td>2010-2011</td>
-    <td>Researcher co-investigator, <a href="http://www.gold.ac.uk">Goldsmiths, University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
+    <td>Researcher co-investigator, <a href="http://www.gold.ac.uk">Goldsmiths University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
   </tr>
   <tr>
     <td>2008-2009</td>
@@ -36,7 +36,7 @@ title: "CV"
   </tr>
   <tr>    
     <td>2005-2008</td>
-    <td>Research fellow, <a href="http://www.gold.ac.uk">Goldsmiths, University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
+    <td>Research fellow, <a href="http://www.gold.ac.uk">Goldsmiths University of London</a>, funded by <a href="http://www.epsrc.ac.uk">EPSRC</a>.</td>
   </tr>
   <!-- tr><td><a href="cv.pdf">Full CV</a></td><td></td></tr -->
 </table>
@@ -80,15 +80,15 @@ title: "CV"
     </tr>
   </thead>
 
-<tr>
+<!-- tr>
    <td>2022-2024</td>
    <td>Investigating Musical Prediction with Research On Vocalisation (IMPROV)</td>
-   <td>Supervisor (Fellow: <a href="https://m-w-w.github.io/">Michael Weiss</a>)</td>
+   <td>Supervisor (Fellow: <a href="https://m-w-w.github.io/">Michael Weiss</a>, fellowship declined.)</td>
    <td>Queen Mary University of London</td>
    <td style="text-align: left"><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships"><img width="70px" src="assets/img/ec.jpg" style="padding-left: 0pt; padding-top: 0pt"></a></td>
    <td>MSCA postdoctoral fellowship 101065361</td>
    <td>&pound;204,031</td>
-</tr>
+</tr -->
 
  <tr> 
     <td>2017-2020</td>
