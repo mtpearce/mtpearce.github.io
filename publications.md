@@ -13,7 +13,7 @@ title: "Publications"
 
 <li>Klarlund, M., Brattico, E., Pearce, M. T., Wu, Y., Vuust, P., Overgaard, M., & Du, Y. (2023). <a href="assets/papers/KlarlundEtAl2023.pdf">Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</a> <i>Cognition</i>, 235, 105405. https://doi.org/10.1016/j.cognition.2023.105405</li>
 
-<li>Gold, B. P., Pearce, M. T., McIntosh, A. R., Chang, C., Dagher, A., & Zatorre, R. J. (2023). <a href="assets/papes/GoldEtAl2023.pdf">Auditory and reward structures reflect the pleasure of musical expectancies during naturalistic listening.</a> <i>Frontiers in Neuroscience</i>, 17, 1209398. https://doi.org/10.3389/fnins.2023.1209398</li>
+<li>Gold, B. P., Pearce, M. T., McIntosh, A. R., Chang, C., Dagher, A., & Zatorre, R. J. (2023). <a href="assets/papers/GoldEtAl2023.pdf">Auditory and reward structures reflect the pleasure of musical expectancies during naturalistic listening.</a> <i>Frontiers in Neuroscience</i>, 17, 1209398. https://doi.org/10.3389/fnins.2023.1209398</li>
 
 <li>Kaplan, T., Jamone, L., & Pearce, M. T. (2023). <a href="assets/papers/KaplanEtAl2023.pdf">Probabilistic modelling of microtiming perception.</a> <i>Cognition</i>, 239, 105532. https://doi.org/10.1016/j.cognition.2023.105532</li>
 
