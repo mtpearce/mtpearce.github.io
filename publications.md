@@ -5,6 +5,16 @@ title: "Publications"
 
 <p>Full list: <a href="http://scholar.google.co.uk/citations?user=UImWMekAAAAJ">http://scholar.google.co.uk/citations?user=UImWMekAAAAJ</a></p>
 
+<h5>2024</h5>
+
+<ul class="publications">
+
+<li>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. https://doi.org/10.1177/10298649231223077</li>
+
+<li>van der Weij, B., Pearce, M. T., & Honing, H. (2024). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford: Oxford University Press.</li>
+
+</ul>
+
 <h5>2023</h5>
 
 <ul class="publications">
@@ -19,9 +29,7 @@ title: "Publications"
 
 <li>Bianco, R., Hall, E. T., Pearce, M. T., & Chait, M. (2023). <a href="assets/papers/BiancoEtAl2023.pdf">Implicit auditory memory in older listeners: From encoding to 6-month retention.</a> <i>Current Research in Neurobiology</i>, 100115. https://doi.org/10.1016/j.crneur.2023.100115</li>
 
-<li>Cheung, V., Harrison, P., Koelsch, S., Pearce, M., Friederici, A., & Meyer, L. (2023). <a href="">Cognitive and sensory expectations independently shape musical expectancy and pleasure.</a> <i>Philosophical Transactions of the Royal Society B: Biological Sciences.</i> In press.</li>
-
-<li>van der Weij, B., Pearce, M. T., & Honing, H. (2023). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford: Oxford University Press.</li>
+<li>Cheung, V., Harrison, P., Koelsch, S., Pearce, M., Friederici, A., & Meyer, L. (2023). <a href="assets/papers/CheungEtAl2023.pdf">Cognitive and sensory expectations independently shape musical expectancy and pleasure.</a> <i>Philosophical Transactions of the Royal Society B: Biological Sciences.</i> In press.</li>
 
 </ul>
 
