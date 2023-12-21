@@ -11,7 +11,7 @@ title: "Publications"
 
 <li>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. https://doi.org/10.1177/10298649231223077</li>
 
-<li>van der Weij, B., Pearce, M. T., & Honing, H. (2024). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford: Oxford University Press.</li>
+<li>van der Weij, B., Pearce, M. T., & Honing, H. (2024). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford University Press.</li>
 
 </ul>
 
@@ -21,7 +21,7 @@ title: "Publications"
 
 <ul class="publications">
 
-<li>Pearce, M. T. (2023). <a href="assets/papers/Pearce2023.pdf">Music Perception.</a> In <i>Oxford Research Encyclopedia of Psychology.</i> https://doi.org/10.1093/acrefore/9780190236557.013.890</li>
+<li>Pearce, M. T. (2023). <a href="assets/papers/Pearce2023.pdf">Music Perception.</a> In <i>Oxford Research Encyclopedia of Psychology.</i> <https://doi.org/10.1093/acrefore/9780190236557.013.890></li>
 
 <li>Klarlund, M., Brattico, E., Pearce, M. T., Wu, Y., Vuust, P., Overgaard, M., & Du, Y. (2023). <a href="assets/papers/KlarlundEtAl2023.pdf">Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</a> <i>Cognition</i>, 235, 105405. https://doi.org/10.1016/j.cognition.2023.105405</li>
 
@@ -75,7 +75,7 @@ title: "Publications"
 
 <li>de Fleurian, R., & Pearce, M. T. (2021). <a href="assets/papers/deFleurianPearce2021.pdf">The relationship between valence and chills in music: A corpus analysis.</a> <i>i-Perception</i>, 12, 1-11. https://doi.org/10.1177/20416695211024680</li>
 
-<li>Nadal, M., & Pearce, M. T. (2021). <a href="https://books.google.co.uk/books?id=8_dQEAAAQBAJ&pg=PA36">The cognitive neuroscience of aesthetic experience.</a> In A. Chatterjee & E. R. Cardillo (Eds.) <i>Brain, beauty and art.</i> Oxford: Oxford University Press. https://doi.org/10.1093/oso/9780197513620.003.0008</li>
+<li>Nadal, M., & Pearce, M. T. (2021). <a href="https://books.google.co.uk/books?id=8_dQEAAAQBAJ&pg=PA36">The cognitive neuroscience of aesthetic experience.</a> In A. Chatterjee & E. R. Cardillo (Eds.) <i>Brain, beauty and art.</i> Oxford University Press. https://doi.org/10.1093/oso/9780197513620.003.0008</li>
 
 <li>Quiroga-Martinez, D. R., Hansen, N. C., Højlund, A., Pearce, M. T., Brattico, E., & Vuust, P. (2021). <a href="assets/papers/Quiroga-MartinezEtAl2021.pdf">Musicianship and melodic predictability enhance neural gain in auditory cortex during pitch deviance detection.</a> <i>Human Brain Mapping</i>, 42, 5595-5608. https://doi.org/10.1002/hbm.25638</li>
 
@@ -117,7 +117,7 @@ title: "Publications"
 
 <ul class="publications">
 
-<li>Morrison, S. J., Demorest, S. M., & Pearce, M. T. (2019). <a href="assets/papers/MorrisonEtAl2019.pdf">Cultural Distance: A Computational Approach to Exploring Cultural Influences on Music Cognition.</a> In M. Thaut and D. Hodges (eds.), <i>Oxford Handbook of Music and the Brain</i> (pp. 42-65). Oxford: Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198804123.013.3</li>
+<li>Morrison, S. J., Demorest, S. M., & Pearce, M. T. (2019). <a href="assets/papers/MorrisonEtAl2019.pdf">Cultural Distance: A Computational Approach to Exploring Cultural Influences on Music Cognition.</a> In M. Thaut and D. Hodges (eds.), <i>Oxford Handbook of Music and the Brain</i> (pp. 42-65). Oxford University Press. https://doi.org/10.1093/oxfordhb/9780198804123.013.3</li>
 
 <li>Sears, D. R. W., Pearce, M. T., Spitzer, J., Caplin, W. E., & McAdams, S. (2019). <a href="assets/papers/SearsEtAl2019.pdf">Expectations for tonal cadences: Sensory and cognitive priming effects.</a> <i>Quarterly Journal of Experimental Psychology</i>, 72, 1422-1438. https://doi.org/10.1177/1747021818814472</li>
 
@@ -151,7 +151,7 @@ title: "Publications"
 
 <li>Sauv&eacute;, S.A., Sayed, A., Dean, R. T., & Pearce, M. T. (2018). <a href="assets/papers/SauveEtAl2018.pdf">Effects of pitch and timing expectancy on musical emotion.</a> <i>Psychomusicology</i>, 28, 17-39. https://doi.org/10.1037/pmu0000203</li>
 
-<li>Rohrmeier, M. & Pearce, M. T. (2018). <a href="assets/papers/RohrmeierPearce2018.pdf">Musical syntax I: Theoretical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 473-486). Berlin: Springer-Verlag. https://doi.org/10.1007/978-3-662-55004-5_25</li><li>Pearce, M. T. & Rohrmeier, M. (2018). <a href="assets/papers/PearceRohrmeier2018.pdf">Musical syntax II: Empirical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 487-505). Berlin: Springer-Verlag. https://doi.org/10.1007/978-3-662-55004-5_26</li>
+<li>Rohrmeier, M. & Pearce, M. T. (2018). <a href="assets/papers/RohrmeierPearce2018.pdf">Musical syntax I: Theoretical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 473-486). Springer. https://doi.org/10.1007/978-3-662-55004-5_25</li><li>Pearce, M. T. & Rohrmeier, M. (2018). <a href="assets/papers/PearceRohrmeier2018.pdf">Musical syntax II: Empirical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 487-505). Springer. https://doi.org/10.1007/978-3-662-55004-5_26</li>
 
 <li>Duffy, S. & Pearce, M. T. (2018). <a href="assets/papers/DuffyPearce2018.pdf">What makes rhythms hard to perform? An investigation using Steve Reich’s Clapping Music.</a> <i>PLOS One</i>, 13(10): e0205847. https://doi.org/10.1371/journal.pone.0205847</li>
 
@@ -199,7 +199,7 @@ title: "Publications"
 
 <li>Dean, R.T. & Pearce, M. T. (2016). <a href="assets/papers/DeanPearce16.pdf">Algorithmically-generated corpora that use serial compositional principles can contribute to the modeling of sequential pitch structure in non-tonal music.</a> <i>Empirical Musicology Review</i>, 11, 27–46. https://doi.org/10.18061/emr.v11i1.4900</li>
 
-<li>Schubert, E. & Pearce, M. T. (2016). <a href="assets/papers/SchubertPearce2016.pdf">A new look at musical expectancy: The veridical versus the general in the mental organization of music.</a> In R. Kronland-Martinet, M. Aramaki, and S. Ystad (eds.), <i>Music, Mind and Embodiment</i> (pp. 358–370). Switzerland: Springer International. https://doi.org/10.1007/978-3-319-46282-0_23</li>
+<li>Schubert, E. & Pearce, M. T. (2016). <a href="assets/papers/SchubertPearce2016.pdf">A new look at musical expectancy: The veridical versus the general in the mental organization of music.</a> In R. Kronland-Martinet, M. Aramaki, and S. Ystad (eds.), <i>Music, Mind and Embodiment</i> (pp. 358–370). Springer. https://doi.org/10.1007/978-3-319-46282-0_23</li>
 
 <li>Hansen, N. C., Sadakata, M., & Pearce, M. T. (2016). <a href="assets/papers/HansenSadakataPearce2016.pdf">Nonlinear changes in the rhythm of European art music: Quantitative support for historical musicology.</a> <i>Music Perception</i>, 33, 414-431. https://doi.org/10.1525/mp.2016.33.4.414</li> 
 
@@ -210,7 +210,7 @@ title: "Publications"
 <h5>2015</h5>
 
 <ul class="publications">
- <li>Pearce, M. T. (2015). <a href="assets/papers/Pearce2015.pdf">Effects of expertise on the cognitive and neural processes involved in musical appreciation.</a>  In J.P. Huston, M. Nadal, L. Agnati, F. Mora, and C.J. Cela-Conde (eds.), <i>Art, Aesthetics and the Brain</i> (pp. 319-338). Oxford: Oxford University Press.</li>
+ <li>Pearce, M. T. (2015). <a href="assets/papers/Pearce2015.pdf">Effects of expertise on the cognitive and neural processes involved in musical appreciation.</a>  In J.P. Huston, M. Nadal, L. Agnati, F. Mora, and C.J. Cela-Conde (eds.), <i>Art, Aesthetics and the Brain</i> (pp. 319-338). Oxford University Press.</li>
 
  <li>Pearce, M. T. & Halpern, A. R. (2015). <a href="assets/papers/PearceHalpern2015.pdf">Age-related patterns in emotions evoked by music.</a> <i>Psychology of Aesthetics, Creativity and the Arts</i>, 9, 248-253. https://doi.org/10.1037/a0039279</li>
 
@@ -248,7 +248,7 @@ title: "Publications"
 
 <li>Cherla, S., Weyde, T., Garcez, A. d'Avila & Pearce, M. T. (2013). <a href="assets/papers/CherlaEtAl2013.pdf">Learning Distributed Representations for Multiple-Viewpoint Melodic Prediction.</a> Paper presented at the 14th International Society for Music Information Retrieval Conference, 4 - 8 Nov 2013, Curitiba, PR, Brazil.</li>
 
-<li> Agres, K., Abdallah, S., & Pearce, M. T. (2013). <a href="assets/papers/AgresEtAl2013.pdf">An Information-Theoretic Account of Musical Expectation and Memory.</a> In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 127-132). Austin, Texas: Cognitive Science Society.</li>
+<li> Agres, K., Abdallah, S., & Pearce, M. T. (2013). <a href="assets/papers/AgresEtAl2013.pdf">An Information-Theoretic Account of Musical Expectation and Memory.</a> In M. Knauff, M. Pauen, N. Sebanz, & I. Wachsmuth (Eds.), Proceedings of the 35th Annual Conference of the Cognitive Science Society (pp. 127-132). Cognitive Science Society.</li>
 </ul>
 
 
@@ -295,7 +295,7 @@ title: "Publications"
 
   <li>Wiggins, G., M&uuml;llensiefen, D., & Pearce, M. T. (2010).  <a href="assets/papers/WigginsMullensiefenPearceMusicaeScientiae2010.pdf">On the non-existence of music: Why music theory is a figment of the imagination.</a>  <i>Musicae Scientiae</i>, Discussion Forum 5, 231-255.</li> 
 
-  <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2010). <a href="assets/papers/PearceEtAlAMIR10.pdf"> Melodic grouping in music information retrieval: New methods and applications </a>. In Z. W. Ras and A. Wieczorkowska (Eds.), <i>Advances in Music Information Retrieval</i> (pp. 364-388). Berlin: Springer.</li>
+  <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2010). <a href="assets/papers/PearceEtAlAMIR10.pdf"> Melodic grouping in music information retrieval: New methods and applications </a>. In Z. W. Ras and A. Wieczorkowska (Eds.), <i>Advances in Music Information Retrieval</i> (pp. 364-388). Springer.</li>
 
   <li>Whorley, R., Wiggins,G., Rhodes, C. S. & Pearce, M. T. (2010).  <a href="assets/papers/WhorleyEtAl2010.pdf">Development of Techniques for the Computational Modelling of Harmony.</a>  In Ventura et al. (Eds.), <i>Proceedings of the International Conference on Computational Creativity.</i> Lisbon</li>
 
@@ -308,9 +308,9 @@ title: "Publications"
 
   <li>Pearce, M. T. (2009). <a href="http://dx.doi.org/10.1080/07494460802664080">To beep or not to beep.</a>  <i>Contemporary Music Review</i>, 28, 125-126.</li>
   
-  <li>Wiggins, G., Pearce M. T., & M&uuml;llensiefen, D. (2009).  Computational modelling of music cognition and musical creativity . In R. Dean (Ed.), <i>The Oxford Handbook of Computer Music</i> (pp. 383-420). Oxford: Oxford University Press.</li>
+  <li>Wiggins, G., Pearce M. T., & M&uuml;llensiefen, D. (2009).  Computational modelling of music cognition and musical creativity . In R. Dean (Ed.), <i>The Oxford Handbook of Computer Music</i> (pp. 383-420). Oxford University Press.</li>
 
-  <li>Rohrmeier, M., Honing, H., Rebuschat, P., Loui, P., Wiggins, G., Pearce, M. T., M&uuml;llensiefen, D. (2009).  <a href="http://csjarchive.cogsci.rpi.edu/proceedings/2009/papers/5/paper5.pdf">Music Cognition: Learning and Processing.</a>  In N. A. Taatgen & H. v. Rijn (Eds.), <i>Proceedings of the 31st Annual Conference of the Cognitive Science Society</i> (pp. 41-42). Austin, TX: Cognitive Science Society.</li>
+  <li>Rohrmeier, M., Honing, H., Rebuschat, P., Loui, P., Wiggins, G., Pearce, M. T., M&uuml;llensiefen, D. (2009).  <a href="http://csjarchive.cogsci.rpi.edu/proceedings/2009/papers/5/paper5.pdf">Music Cognition: Learning and Processing.</a>  In N. A. Taatgen & H. v. Rijn (Eds.), <i>Proceedings of the 31st Annual Conference of the Cognitive Science Society</i> (pp. 41-42). Cognitive Science Society.</li>
 </ul>
 
 <br>
@@ -318,9 +318,9 @@ title: "Publications"
 <h5>2008</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2008).  <a href="assets/papers/PearceEtAlISMIR08.pdf">A comparison of statistical and rule-based models of melodic segmentation.</a>  In <i>Proceedings of the Ninth International Conference on Music Information Retrieval,</i> (pp. 89-94). Philadelphia, USA: Drexel University.</li>
+  <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2008).  <a href="assets/papers/PearceEtAlISMIR08.pdf">A comparison of statistical and rule-based models of melodic segmentation.</a>  In <i>Proceedings of the Ninth International Conference on Music Information Retrieval,</i> (pp. 89-94). Drexel University.</li>
 
-  <li>Pearce, M. T. & M&uuml;llensiefen, D.(2008).  <a href="assets/papers/huron06-review.pdf">David Huron, Sweet Anticipation: Music and the Psychology of Expectation. Cambridge, MA: MIT Press, 2006, 512 pp., ISBN 0262083450, (Hardcover).</a>  <i>Musicae Scientiae</i>, 12, 158-168.</li>
+  <li>Pearce, M. T. & M&uuml;llensiefen, D.(2008).  <a href="assets/papers/huron06-review.pdf">David Huron, Sweet Anticipation: Music and the Psychology of Expectation. MIT Press, 2006, 512 pp., ISBN 0262083450, (Hardcover).</a>  <i>Musicae Scientiae</i>, 12, 158-168.</li>
 
 </ul>
 
@@ -331,9 +331,9 @@ title: "Publications"
 
   <li>Potter, K., Wiggins, G., & Pearce, M. T. (2007).  <a href="assets/papers/PotterWigginsPearceMS07.pdf">Towards greater objectivity in music theory: Information-dynamic analysis of minimalist music.</a>  <i>Musicae Scientiae</i>, 11, 295-322. </li>
 
-  <li>Pearce, M. T. & Wiggins, G. (2007).  <a href="assets/papers/PearceWigginsCC07.pdf">Evaluating cognitive models of musical composition</a>. In A. Cardoso and G. Wiggins (Eds.), <i>Proceedings of the 4th International Joint Workshop on Computational Creativity</i>, (pp. 73-80). London: Goldsmiths, University of London.</li>
+  <li>Pearce, M. T. & Wiggins, G. (2007).  <a href="assets/papers/PearceWigginsCC07.pdf">Evaluating cognitive models of musical composition</a>. In A. Cardoso and G. Wiggins (Eds.), <i>Proceedings of the 4th International Joint Workshop on Computational Creativity</i>, (pp. 73-80). Goldsmiths, University of London.</li>
 
-  <li>Pearce, M. T., M&uuml;llensiefen, D., Lewis, D. & Rhodes, C. S. (2007).  <a href="https://kb.osu.edu/dspace/bitstream/1811/29399/1/EMR000032a_pearce.pdf">David Temperley, Music and Probability. Cambridge, Massachusetts: MIT Press, 2007, ISBN-13: 978-0-262-20166-7 (hardcover) $40.00.</a>  <i>Empirical Musicology Review</i>, 2, 155-163.</li>
+  <li>Pearce, M. T., M&uuml;llensiefen, D., Lewis, D. & Rhodes, C. S. (2007).  <a href="https://kb.osu.edu/dspace/bitstream/1811/29399/1/EMR000032a_pearce.pdf">David Temperley, Music and Probability. MIT Press, 2007, ISBN-13: 978-0-262-20166-7 (hardcover) $40.00.</a>  <i>Empirical Musicology Review</i>, 2, 155-163.</li>
 
 </ul>
 
@@ -354,7 +354,7 @@ title: "Publications"
 
   <li>Pearce, M. T. (2005).  <a href="assets/papers/Pearce2005.pdf">The Construction and Evaluation of Statistical Models of Melodic Structure in Music Perception and Composition</a>. <i>Doctoral Dissertation</i>, Department of Computer Science, City University of London, UK. Examiners: <a href="http://users.jyu.fi/~ptoiviai/">Petri Toiviainen</a> and <a href="http://www.soi.city.ac.uk/~aag">Artur d'Avila Garcez</a></li>
 
-  <li>Pearce, M. T., Conklin, D. & Wiggins, G. (2005).  <a href="assets/papers/PearceEtAl2005.pdf">Methods for combining statistical models of music.</a>  In U. K. Wiil (Ed.), <i>Computer Music Modelling and Retrieval</i> (pp. 295-312). Heidelberg: Springer.</li>
+  <li>Pearce, M. T., Conklin, D. & Wiggins, G. (2005).  <a href="assets/papers/PearceEtAl2005.pdf">Methods for combining statistical models of music.</a>  In U. K. Wiil (Ed.), <i>Computer Music Modelling and Retrieval</i> (pp. 295-312). Springer.</li>
 </ul>
 
 <br>
@@ -364,7 +364,7 @@ title: "Publications"
 
   <li>Pearce, M. T. & Wiggins, G. (2004).  <a href="assets/papers/PearceWigginsJNMR04.pdf">Improved methods for statistical modelling of monophonic music.</a>  <i>Journal of New Music Research</i>, 33, 367-385.</li>
 
-  <li>Pearce, M. T. & Wiggins, G. (2004). Rethinking Gestalt influences on melodic expectancy.  In S. D. Lipscomb, R. Ashley, R. O. Gjerdingen and P. Webster (Eds.), <i>Proceedings of the 8th International Conference of Music Perception and Cognition</i>, (pp. 367-371). Adelaide, Australia: Causal Productions.</li>
+  <li>Pearce, M. T. & Wiggins, G. (2004). Rethinking Gestalt influences on melodic expectancy.  In S. D. Lipscomb, R. Ashley, R. O. Gjerdingen and P. Webster (Eds.), <i>Proceedings of the 8th International Conference of Music Perception and Cognition</i>, (pp. 367-371). Causal Productions.</li>
 
   <li>Pearce, M. T. & Meredith, D. (2004).  <a href="assets/papers/cmmr2004-doc.pdf">Review of the Third International Symposium on Computer Music Modelling and Retrieval.</a><!-- Aalborg University Esbjerg, Denmark, 26-29 May 2004.-->  In <i>Computer Music Journal</i>, 28, 91-93.</li>
 </ul>
@@ -374,7 +374,7 @@ title: "Publications"
 <h5>2003</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T. & Wiggins, G. (2003).  An empirical comparison of the performance of PPM variants on a prediction task with monophonic music.  In <i>Proceedings of the AISB'03 Symposium on Artificial Intelligence and Creativity in Arts and Science</i>, (pp. 74-83). Brighton, UK: SSAISB.</li>
+  <li>Pearce, M. T. & Wiggins, G. (2003).  An empirical comparison of the performance of PPM variants on a prediction task with monophonic music.  In <i>Proceedings of the AISB'03 Symposium on Artificial Intelligence and Creativity in Arts and Science</i>, (pp. 74-83). SSAISB.</li>
 </ul>
 
 <br>
@@ -392,7 +392,7 @@ title: "Publications"
 <h5>2001</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T. & Wiggins, G. (2001).  <a href="assets/papers/PearceEtAl2001.pdf">Towards a framework for the evaluation of machine compositions.</a>  In <i>Proceedings of the AISB'01 Symposium on Artificial Intelligence and Creativity in the Arts and Sciences</i>, (pp.22-32). Brighton, UK: SSAISB.</li> 
+  <li>Pearce, M. T. & Wiggins, G. (2001).  <a href="assets/papers/PearceEtAl2001.pdf">Towards a framework for the evaluation of machine compositions.</a>  In <i>Proceedings of the AISB'01 Symposium on Artificial Intelligence and Creativity in the Arts and Sciences</i>, (pp.22-32). SSAISB.</li> 
 
   <li>Pearce, M. T. (2001).  Report on the ICCBR'01 Workshop on Creative Systems. <i>AISB Quarterly</i> 106, 6-7. </li>
 </ul> 
