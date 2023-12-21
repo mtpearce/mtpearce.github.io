@@ -9,7 +9,7 @@ title: "Publications"
 
 <ul class="publications">
 
-<li>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. https://doi.org/10.1177/10298649231223077</li>
+<li>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. <a href="https://doi.org/10.1177/10298649231223077">https://doi.org/10.1177/10298649231223077</a></li>
 
 <li>van der Weij, B., Pearce, M. T., & Honing, H. (2024). <a href="">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford University Press.</li>
 
@@ -21,17 +21,17 @@ title: "Publications"
 
 <ul class="publications">
 
-<li>Pearce, M. T. (2023). <a href="assets/papers/Pearce2023.pdf">Music Perception.</a> In <i>Oxford Research Encyclopedia of Psychology.</i> <https://doi.org/10.1093/acrefore/9780190236557.013.890></li>
+<li>Pearce, M. T. (2023). <a href="assets/papers/Pearce2023.pdf">Music Perception.</a> In <i>Oxford Research Encyclopedia of Psychology.</i> <a href="https://doi.org/10.1093/acrefore/9780190236557.013.890">https://doi.org/10.1093/acrefore/9780190236557.013.890</a></li>
 
-<li>Klarlund, M., Brattico, E., Pearce, M. T., Wu, Y., Vuust, P., Overgaard, M., & Du, Y. (2023). <a href="assets/papers/KlarlundEtAl2023.pdf">Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</a> <i>Cognition</i>, 235, 105405. https://doi.org/10.1016/j.cognition.2023.105405</li>
+<li>Klarlund, M., Brattico, E., Pearce, M. T., Wu, Y., Vuust, P., Overgaard, M., & Du, Y. (2023). <a href="assets/papers/KlarlundEtAl2023.pdf">Worlds apart? Testing the cultural distance hypothesis in music perception of Chinese and Western listeners.</a> <i>Cognition</i>, 235, 105405. <a href="https://doi.org/10.1016/j.cognition.2023.105405">https://doi.org/10.1016/j.cognition.2023.105405</a></li>
 
-<li>Gold, B. P., Pearce, M. T., McIntosh, A. R., Chang, C., Dagher, A., & Zatorre, R. J. (2023). <a href="assets/papers/GoldEtAl2023.pdf">Auditory and reward structures reflect the pleasure of musical expectancies during naturalistic listening.</a> <i>Frontiers in Neuroscience</i>, 17, 1209398. https://doi.org/10.3389/fnins.2023.1209398</li>
+<li>Gold, B. P., Pearce, M. T., McIntosh, A. R., Chang, C., Dagher, A., & Zatorre, R. J. (2023). <a href="assets/papers/GoldEtAl2023.pdf">Auditory and reward structures reflect the pleasure of musical expectancies during naturalistic listening.</a> <i>Frontiers in Neuroscience</i>, 17, 1209398. <a href="https://doi.org/10.3389/fnins.2023.1209398">https://doi.org/10.1016/j.cognition.2023.105405</a></li>
 
-<li>Kaplan, T., Jamone, L., & Pearce, M. T. (2023). <a href="assets/papers/KaplanEtAl2023.pdf">Probabilistic modelling of microtiming perception.</a> <i>Cognition</i>, 239, 105532. https://doi.org/10.1016/j.cognition.2023.105532</li>
+<li>Kaplan, T., Jamone, L., & Pearce, M. T. (2023). <a href="assets/papers/KaplanEtAl2023.pdf">Probabilistic modelling of microtiming perception.</a> <i>Cognition</i>, 239, 105532. <a href="https://doi.org/10.1016/j.cognition.2023.105532">https://doi.org/10.1016/j.cognition.2023.105405</a></li>
 
-<li>Bianco, R., Hall, E. T., Pearce, M. T., & Chait, M. (2023). <a href="assets/papers/BiancoEtAl2023.pdf">Implicit auditory memory in older listeners: From encoding to 6-month retention.</a> <i>Current Research in Neurobiology</i>, 100115. https://doi.org/10.1016/j.crneur.2023.100115</li>
+<li>Bianco, R., Hall, E. T., Pearce, M. T., & Chait, M. (2023). <a href="assets/papers/BiancoEtAl2023.pdf">Implicit auditory memory in older listeners: From encoding to 6-month retention.</a> <i>Current Research in Neurobiology</i>, 100115. <a href="https://doi.org/10.1016/j.crneur.2023.100115">https://doi.org/10.1016/j.cognition.2023.105405</a></li>
 
-<li>Cheung, V., Harrison, P., Koelsch, S., Pearce, M., Friederici, A., & Meyer, L. (2023). <a href="assets/papers/CheungEtAl2023.pdf">Cognitive and sensory expectations independently shape musical expectancy and pleasure.</a> <i>Philosophical Transactions of the Royal Society B: Biological Sciences</i>, 379, 2022042020220420. http://doi.org/10.1098/rstb.2022.0420</li>
+<li>Cheung, V., Harrison, P., Koelsch, S., Pearce, M., Friederici, A., & Meyer, L. (2023). <a href="assets/papers/CheungEtAl2023.pdf">Cognitive and sensory expectations independently shape musical expectancy and pleasure.</a> <i>Philosophical Transactions of the Royal Society B: Biological Sciences</i>, 379, 2022042020220420. <a href="http://doi.org/10.1098/rstb.2022.0420">https://doi.org/10.1016/j.cognition.2023.105405</a></li>
 
 </ul>
 
@@ -41,15 +41,15 @@ title: "Publications"
 
 <ul class="publications">
 
-<li>Krishnan, S., Carey, D., Dick, F., & Pearce, M. T. (2022). <a href="assets/papers/KrishnanEtAl2022.pdf">Effects of statistical learning in passive and active contexts on reproduction and recognition of auditory sequences.</a> <i>Journal of Experimental Psychology: General</i>, 151, 555-577. https://doi.org/10.1037/xge0001091</li>
+<li>Krishnan, S., Carey, D., Dick, F., & Pearce, M. T. (2022). <a href="assets/papers/KrishnanEtAl2022.pdf">Effects of statistical learning in passive and active contexts on reproduction and recognition of auditory sequences.</a> <i>Journal of Experimental Psychology: General</i>, 151, 555-577. <a href="https://doi.org/10.1037/xge0001091">https://doi.org/10.1016/j.cognition.2023.105405</a></li>
 
-<li>Tenderini, M. S., de Leeuw, E., Eilola, T. M., & Pearce, M. T. (2022). <a href="assets/papers/TenderiniEtAl2022.pdf">Reduced cross-modal affective priming in the L2 of late bilinguals depends on L2 exposure.</a> <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, 48, 284-303. https://doi.org/10.1037/xlm0000889</li>
+<li>Tenderini, M. S., de Leeuw, E., Eilola, T. M., & Pearce, M. T. (2022). <a href="assets/papers/TenderiniEtAl2022.pdf">Reduced cross-modal affective priming in the L2 of late bilinguals depends on L2 exposure.</a> <i>Journal of Experimental Psychology: Learning, Memory, and Cognition</i>, 48, 284-303. <a href="https://doi.org/10.1037/xlm0000889">https://doi.org/10.1016/j.cognition.2023.105405</a></li>
 
-<li>Clemente, A., Pearce, M. T., & Nadal, M. (2022). <a href="assets/papers/ClementeEtAl2022.pdf">Musical aesthetic sensitivity.</a> <i>Psychology of Aesthetics, Creativity and the Arts</i>, 16, 58-73. https://doi.org/10.1037/aca0000381</li>
+<li>Clemente, A., Pearce, M. T., & Nadal, M. (2022). <a href="assets/papers/ClementeEtAl2022.pdf">Musical aesthetic sensitivity.</a> <i>Psychology of Aesthetics, Creativity and the Arts</i>, 16, 58-73. <a href="https://doi.org/10.1037/aca0000381">https://doi.org/10.1037/aca0000381</a></li>
 
-<li>Agres, K., Tay, T. Y., & Pearce, M. T. (2022). <a href="assets/papers/AgresEtAl2022.pdf">Comparing Musicians and Non-musicians’ Expectations in Music and Vision.</a> In <i>Proceedings of the 17th International Audio Mostly Conference</i> (pp. 74-79). https://doi.org/10.1145/3561212.3561251</li>
+<li>Agres, K., Tay, T. Y., & Pearce, M. T. (2022). <a href="assets/papers/AgresEtAl2022.pdf">Comparing Musicians and Non-musicians’ Expectations in Music and Vision.</a> In <i>Proceedings of the 17th International Audio Mostly Conference</i> (pp. 74-79). <a href="https://doi.org/10.1145/3561212.3561251">https://doi.org/10.1145/3561212.3561251</a></li>
 
-<li>Hansen, N. C., Højlund, A., Møller, C., Pearce, M. T., & Vuust, P. (2022). <a href="assets/papers/HansenEtAl2022.pdf">Musicians show more integrated neural processing of contextually relevant acoustic features.</a> <i>Frontiers in Neuroscience</i>, 16. https://doi.org/10.3389/fnins.2022.907540</li>
+<li>Hansen, N. C., Højlund, A., Møller, C., Pearce, M. T., & Vuust, P. (2022). <a href="assets/papers/HansenEtAl2022.pdf">Musicians show more integrated neural processing of contextually relevant acoustic features.</a> <i>Frontiers in Neuroscience</i>, 16. <a href="https://doi.org/10.3389/fnins.2022.907540">https://doi.org/10.3389/fnins.2022.907540</a></li>
 
 <li>Kaplan, T., Cannon, J., Jamone, L., & Pearce, M. T. (2022). <a href="assets/papers/KaplanEtAl2022.pdf">Modeling enculturated bias in entrainment to rhythmic patterns.</a> <i>PLOS Computational Biology</i>, 18(9), e1010579. https://doi.org/10.1371/journal.pcbi.1010579</li>
 
