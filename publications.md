@@ -151,7 +151,9 @@ title: "Publications"
 
 <li>Sauv&eacute;, S.A., Sayed, A., Dean, R. T., & Pearce, M. T. (2018). <a href="assets/papers/SauveEtAl2018.pdf">Effects of pitch and timing expectancy on musical emotion.</a> <i>Psychomusicology</i>, 28, 17-39. <a href="https://doi.org/10.1037/pmu0000203">https://doi.org/10.1037/pmu0000203</a></li>
 
-<li>Rohrmeier, M. & Pearce, M. T. (2018). <a href="assets/papers/RohrmeierPearce2018.pdf">Musical syntax I: Theoretical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 473-486). Springer. <a href="https://doi.org/10.1007/978-3-662-55004-5_25</li><li>Pearce, M. T. & Rohrmeier, M. (2018). <a href="assets/papers/PearceRohrmeier2018.pdf">Musical syntax II: Empirical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 487-505). Springer. https://doi.org/10.1007/978-3-662-55004-5_26">>Musical syntax II: Empirical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 487-505). Springer. https://doi.org/10.1007/978-3-662-55004-5_26</a></li>
+<li>Rohrmeier, M. & Pearce, M. T. (2018). <a href="assets/papers/RohrmeierPearce2018.pdf">Musical syntax I: Theoretical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 473-486). Springer. <a href="https://doi.org/10.1007/978-3-662-55004-5_25">https://doi.org/10.1007/978-3-662-55004-5_25</a></li>
+
+<li>Pearce, M. T. & Rohrmeier, M. (2018). <a href="assets/papers/PearceRohrmeier2018.pdf">Musical syntax II: Empirical perspectives.</a> In R. Bader (ed.) <i>Springer Handbook of Systematic Musicology</i> (pp. 487-505). Springer. <a href="https://doi.org/10.1007/978-3-662-55004-5_26">https://doi.org/10.1007/978-3-662-55004-5_26</a></li>
 
 <li>Duffy, S. & Pearce, M. T. (2018). <a href="assets/papers/DuffyPearce2018.pdf">What makes rhythms hard to perform? An investigation using Steve Reich’s Clapping Music.</a> <i>PLOS One</i>, 13(10): e0205847. <a href="https://doi.org/10.1371/journal.pone.0205847">https://doi.org/10.1371/journal.pone.0205847</a></li>
 
@@ -258,7 +260,7 @@ title: "Publications"
 
 <ul class="publications">
 
-  <li>Carrus, E., Pearce, M. T., & Bhattacharya, J. (2012).  <a href="assets/papers/CarrusEtAlCortex2012.pdf">Melodic pitch expectation interacts with neural responses to syntactic but not semantic violations.</a>  <i>Cortex</i>, 49, 2186-2200. <a href="https://doi.org/10.1016/j.cortex.2012.08.024.">https://doi.org/10.1016/j.cortex.2012.08.024</a></li>
+  <li>Carrus, E., Pearce, M. T., & Bhattacharya, J. (2012).  <a href="assets/papers/CarrusEtAlCortex2012.pdf">Melodic pitch expectation interacts with neural responses to syntactic but not semantic violations.</a>  <i>Cortex</i>, 49, 2186-2200. <a href="https://doi.org/10.1016/j.cortex.2012.08.024">https://doi.org/10.1016/j.cortex.2012.08.024</a></li>
 
   <li>Pearce, M. T. & Rohrmeier, M. (2012). <a href="assets/papers/PearceRohrmeier2012.pdf">Music cognition and the cognitive sciences.</a>  <i>TopiCS in Cognitive Science</i>, 4, 468-484. <a href="https://doi.org/10.1111/j.1756-8765.2012.01226.x">https://doi.org/10.1111/j.1756-8765.2012.01226.x</a></li>
 
@@ -280,7 +282,7 @@ title: "Publications"
 
   <li>Pearce, M. T. (2011). <a href="assets/papers/Pearce2011.pdf"> Time-series analysis of Music: Perceptual and Information Dynamics. </a> <i>Empirical Musicology Review</i>, 6, 125-130. <a href="https://doi.org/10.18061/1811/51214">https://doi.org/10.18061/1811/51214</a></li>
 
-  <li>Nadal, M., & Pearce, M. T. (2011). <a href="assets/papers/NadalPearceBrainAndCognition2011.pdf"> The Copenhagen Neuroaesthetics conference: Prospects and pitfalls for an emerging field. </a> <i> Brain and Cognition</i>, 76, 172-183. <a href="https://doi.org/10.1016/j.bandc.2011.01.009<">https://doi.org/10.1016/j.bandc.2011.01.009<</a>/li> 
+  <li>Nadal, M., & Pearce, M. T. (2011). <a href="assets/papers/NadalPearceBrainAndCognition2011.pdf"> The Copenhagen Neuroaesthetics conference: Prospects and pitfalls for an emerging field. </a> <i> Brain and Cognition</i>, 76, 172-183. <a href="https://doi.org/10.1016/j.bandc.2011.01.009<">https://doi.org/10.1016/j.bandc.2011.01.009</a></li> 
 </ul>
 
 <br>
