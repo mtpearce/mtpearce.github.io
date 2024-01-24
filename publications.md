@@ -291,13 +291,13 @@ title: "Publications"
 
 <ul class="publications">
 
-  <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2010).  <a href="assets/papers/PearceEtAlPerception2010.pdf">The role of expectation and probabilistic learning in auditory boundary perception: A model comparison.</a> <i>Perception</i>, 39, 1367-1391.</li> <a href="https://doi.org/10.1068/p6507">https://doi.org/10.1068/p6507</a>
+  <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2010).  <a href="assets/papers/PearceEtAlPerception2010.pdf">The role of expectation and probabilistic learning in auditory boundary perception: A model comparison.</a> <i>Perception</i>, 39, 1367-1391. <a href="https://doi.org/10.1068/p6507">https://doi.org/10.1068/p6507</a> </li>
 
-  <li>Pearce, M. T., Ruiz, M. H., Kapasi, S., Wiggins, G., & Bhattacharya, J. (2010).  <a href="assets/papers/PearceEtAlNeuroImage2010.pdf">Unsupervised statistical learning underpins computational, behavioural and neural manifestations of musical expectation</a>. <i>NeuroImage</i>, 50, 302-313.</li> <a href="https://doi.org/10.1016/j.neuroimage.2009.12.019">https://doi.org/10.1016/j.neuroimage.2009.12.019</a>
+  <li>Pearce, M. T., Ruiz, M. H., Kapasi, S., Wiggins, G., & Bhattacharya, J. (2010).  <a href="assets/papers/PearceEtAlNeuroImage2010.pdf">Unsupervised statistical learning underpins computational, behavioural and neural manifestations of musical expectation</a>. <i>NeuroImage</i>, 50, 302-313. <a href="https://doi.org/10.1016/j.neuroimage.2009.12.019">https://doi.org/10.1016/j.neuroimage.2009.12.019</a> </li>
 
-  <li>Wiggins, G., M&uuml;llensiefen, D., & Pearce, M. T. (2010).  <a href="assets/papers/WigginsMullensiefenPearceMusicaeScientiae2010.pdf">On the non-existence of music: Why music theory is a figment of the imagination.</a>  <i>Musicae Scientiae</i>, Discussion Forum 5, 231-255.</li> <a href="https://doi.org/10.1177/10298649100140S11">https://doi.org/10.1177/10298649100140S11</a>
+  <li>Wiggins, G., M&uuml;llensiefen, D., & Pearce, M. T. (2010).  <a href="assets/papers/WigginsMullensiefenPearceMusicaeScientiae2010.pdf">On the non-existence of music: Why music theory is a figment of the imagination.</a>  <i>Musicae Scientiae</i>, Discussion Forum 5, 231-255. <a href="https://doi.org/10.1177/10298649100140S11">https://doi.org/10.1177/10298649100140S11</a> </li>
 
-  <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2010). <a href="assets/papers/PearceEtAlAMIR10.pdf"> Melodic grouping in music information retrieval: New methods and applications </a>. In Z. W. Ras and A. Wieczorkowska (Eds.), <i>Advances in Music Information Retrieval</i> (pp. 364-388). Springer.</li> <a href="https://doi.org/10.1007/978-3-642-11674-2_16">https://doi.org/10.1007/978-3-642-11674-2_16</a>
+  <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2010). <a href="assets/papers/PearceEtAlAMIR10.pdf"> Melodic grouping in music information retrieval: New methods and applications </a>. In Z. W. Ras and A. Wieczorkowska (Eds.), <i>Advances in Music Information Retrieval</i> (pp. 364-388). Springer. <a href="https://doi.org/10.1007/978-3-642-11674-2_16">https://doi.org/10.1007/978-3-642-11674-2_16</a> </li>
 
   <li>Whorley, R., Wiggins,G., Rhodes, C. S. & Pearce, M. T. (2010).  <a href="assets/papers/WhorleyEtAl2010.pdf">Development of Techniques for the Computational Modelling of Harmony.</a>  In Ventura et al. (Eds.), <i>Proceedings of the International Conference on Computational Creativity.</i> Lisbon</li>
 
@@ -308,7 +308,7 @@ title: "Publications"
 <h5>2009</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T. (2009). <a href="https://doi.org/10.1080/07494460802664080">To beep or not to beep.</a>  <i>Contemporary Music Review</i>, 28, 125-126.</li> <a href="https://doi.org/10.1080/07494460802664080">https://doi.org/10.1080/07494460802664080</a>
+  <li>Pearce, M. T. (2009). <a href="https://doi.org/10.1080/07494460802664080">To beep or not to beep.</a>  <i>Contemporary Music Review</i>, 28, 125-126. <a href="https://doi.org/10.1080/07494460802664080">https://doi.org/10.1080/07494460802664080</a> </li>
   
   <li>Wiggins, G., Pearce M. T., & M&uuml;llensiefen, D. (2009).  Computational modelling of music cognition and musical creativity . In R. Dean (Ed.), <i>The Oxford Handbook of Computer Music</i> (pp. 383-420). Oxford University Press.</li>
 
@@ -331,7 +331,7 @@ title: "Publications"
 <h5>2007</h5> 
 <ul class="publications">
 
-  <li>Potter, K., Wiggins, G., & Pearce, M. T. (2007).  <a href="assets/papers/PotterWigginsPearceMS07.pdf">Towards greater objectivity in music theory: Information-dynamic analysis of minimalist music.</a>  <i>Musicae Scientiae</i>, 11, 295-322. </li> <a href="https://doi.org/10.1177/102986490701100207">https://doi.org/10.1177/102986490701100207</a>
+  <li>Potter, K., Wiggins, G., & Pearce, M. T. (2007).  <a href="assets/papers/PotterWigginsPearceMS07.pdf">Towards greater objectivity in music theory: Information-dynamic analysis of minimalist music.</a>  <i>Musicae Scientiae</i>, 11, 295-322. <a href="https://doi.org/10.1177/102986490701100207">https://doi.org/10.1177/102986490701100207</a> </li>
 
   <li>Pearce, M. T. & Wiggins, G. (2007).  <a href="assets/papers/PearceWigginsCC07.pdf">Evaluating cognitive models of musical composition</a>. In A. Cardoso and G. Wiggins (Eds.), <i>Proceedings of the 4th International Joint Workshop on Computational Creativity</i>, (pp. 73-80). Goldsmiths, University of London.</li>
 
@@ -344,8 +344,7 @@ title: "Publications"
 <h5>2006</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T. & Wiggins, G. (2006).  <a href="assets/papers/PearceWigginsMP06.pdf">Expectation in melody: The influence of context and learning.</a>  <i>Music Perception</i>, 23, 377-405.</li> <a href="
-https://doi.org/10.1525/mp.2006.23.5.377">https://doi.org/10.1525/mp.2006.23.5.377</a>
+  <li>Pearce, M. T. & Wiggins, G. (2006).  <a href="assets/papers/PearceWigginsMP06.pdf">Expectation in melody: The influence of context and learning.</a>  <i>Music Perception</i>, 23, 377-405. <a href="https://doi.org/10.1525/mp.2006.23.5.377">https://doi.org/10.1525/mp.2006.23.5.377</a> </li>
 
   <li>Pearce, M. T. & Wiggins, G. (2006).  <a href="assets/papers/PearceWiggins2006.pdf">The information dynamics of melodic boundary detection.</a>  In M. Baroni, A. R. Addessi, R. Caterina and M. Costa (Eds.), <i>Proceedings of the 9th International Conference of Music Perception and Cognition</i>, (pp. 860-867). Bologna, Italy: SMPC and ESCOM.</li>
 </ul>
@@ -365,7 +364,7 @@ https://doi.org/10.1525/mp.2006.23.5.377">https://doi.org/10.1525/mp.2006.23.5.3
 <h5>2004</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T. & Wiggins, G. (2004).  <a href="assets/papers/PearceWigginsJNMR04.pdf">Improved methods for statistical modelling of monophonic music.</a>  <i>Journal of New Music Research</i>, 33, 367-385.</li> <a href="https://doi.org/10.1080/0929821052000343840">https://doi.org/10.1080/0929821052000343840</a>
+  <li>Pearce, M. T. & Wiggins, G. (2004).  <a href="assets/papers/PearceWigginsJNMR04.pdf">Improved methods for statistical modelling of monophonic music.</a>  <i>Journal of New Music Research</i>, 33, 367-385. <a href="https://doi.org/10.1080/0929821052000343840">https://doi.org/10.1080/0929821052000343840</a> </li>
 
   <li>Pearce, M. T. & Wiggins, G. (2004). Rethinking Gestalt influences on melodic expectancy.  In S. D. Lipscomb, R. Ashley, R. O. Gjerdingen and P. Webster (Eds.), <i>Proceedings of the 8th International Conference of Music Perception and Cognition</i>, (pp. 367-371). Causal Productions.</li>
 
@@ -385,7 +384,7 @@ https://doi.org/10.1525/mp.2006.23.5.377">https://doi.org/10.1525/mp.2006.23.5.3
 <h5>2002</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T., Meredith, D. & Wiggins, G. (2002).  <a href="assets/papers/PearceEtAlMusicaeScientiae2002.pdf">Motivations and methodologies for automation of the compositional process.</a>  <i>Musicae Scientiae</i>, 6, 119-147. </li> <a href="https://doi.org/10.1177/10298649020060020">https://doi.org/10.1177/10298649020060020</a>
+  <li>Pearce, M. T., Meredith, D. & Wiggins, G. (2002).  <a href="assets/papers/PearceEtAlMusicaeScientiae2002.pdf">Motivations and methodologies for automation of the compositional process.</a>  <i>Musicae Scientiae</i>, 6, 119-147. <a href="https://doi.org/10.1177/10298649020060020">https://doi.org/10.1177/10298649020060020</a> </li>
 
   <li>Pearce, M. T. & Wiggins, G. (2002).  <a href="assets/papers/PearceWiggins2002.pdf">Aspects of a cognitive theory of creativity in musical composition.</a>  In <i>Proceedings of the ECAI'02 Workshop on Creative Systems</i>, (pp. 17-24). Lyon, France.</li>
 </ul>	  
