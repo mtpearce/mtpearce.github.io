@@ -88,7 +88,7 @@ title: "Publications"
 
 <ul class="publications">
 
-<li>Harrison, P. M. C., & Pearce, M. T. (2020). <a href="assets/papers/HarrisonPearce2020-PsychReview.pdf">Simultaneous consonance in music perception and composition.</a> <i>Psychological Review</i>, 127, 216-244. <a href="https://doi.org/10.1037/rev0000169<">https://doi.org/10.1037/rev0000169<</a>/li> 
+<li>Harrison, P. M. C., & Pearce, M. T. (2020). <a href="assets/papers/HarrisonPearce2020-PsychReview.pdf">Simultaneous consonance in music perception and composition.</a> <i>Psychological Review</i>, 127, 216-244. <a href="https://doi.org/10.1037/rev0000169<">https://doi.org/10.1037/rev0000169</a></li> 
 
 <li>Zioga, I., Harrison, P. M. C., Pearce, M. T., Bhattacharya, J., & Luft, C. D. (2020). <a href="assets/papers/ZiogaEtAl2019.pdf">From learning to creativity: Identifying the behavioural and neural correlates of learning to predict human judgements of musical creativity.</a> <i>NeuroImage</i>, 206, 116311. <a href="https://doi.org/10.1016/j.neuroimage.2019.116311">https://doi.org/10.1016/j.neuroimage.2019.116311</a></li>
 
@@ -102,7 +102,7 @@ title: "Publications"
 
 <li>Quiroga-Martinez, D. R., Hansen, N. C., Højlund, A., Pearce, M. T., Brattico, E., & Vuust, P. (2020). <a href="assets/papers/Quiroga-MartinezEtAl2020.pdf">Decomposing neural responses to melodic surprise in musicians and non-musicians: evidence for a hierarchy of predictions in the auditory system.</a> <i>NeuroImage</i>, 215, 116816. <a href="https://doi.org/10.1016/j.neuroimage.2020.116816">https://doi.org/10.1016/j.neuroimage.2020.116816</a></li>
 
-<li>Clemente, A., Vila-Vidal, M, Pearce, M. T., Aguil&oacute;, G., Corradi, C., & Nadal, M. (2020). <a href="assets/papers/ClementeEtAl2020.pdf">A Set of 200 Musical Stimuli Varying in Balance, Contour, Symmetry, and Complexity: Behavioral and Computational Assessments.</a> <i>Behavior Research Methods</i>, 52, 1491–1509. <a href="https://doi.org/10.3758/s13428-019-01329-8<">https://doi.org/10.3758/s13428-019-01329-8<</a>/li> 
+<li>Clemente, A., Vila-Vidal, M, Pearce, M. T., Aguil&oacute;, G., Corradi, C., & Nadal, M. (2020). <a href="assets/papers/ClementeEtAl2020.pdf">A Set of 200 Musical Stimuli Varying in Balance, Contour, Symmetry, and Complexity: Behavioral and Computational Assessments.</a> <i>Behavior Research Methods</i>, 52, 1491–1509. <a href="https://doi.org/10.3758/s13428-019-01329-8<">https://doi.org/10.3758/s13428-019-01329-8</a></li> 
 
 <li>Zioga, I., Harrison, P. M. C., Pearce, M. T., Bhattacharya, J., & Luft, C. D. B. (2020). <a href="assets/papers/ZiogaEtAl2020.pdf">Auditory but Not Audiovisual Cues Lead to Higher Neural Sensitivity to the Statistical Regularities of an Unfamiliar Musical Style.</a> <i>Journal of Cognitive Neuroscience</i>, 32, 2241-2259. <a href="https://doi.org/10.1162/jocn_a_01614">https://doi.org/10.1162/jocn_a_01614</a></li>
 
@@ -167,7 +167,7 @@ title: "Publications"
 
 <ul class="publications">
 
-<li>Pearce, M. T. & M&uuml;llensiefen, D. (2017). <a href="assets/papers/PearceMullensiefen2017.pdf">Compression-based Modelling of Musical Similarity Perception.</a> <i>Journal of New Music Research</i>, 46, 135-155. <a href="https://doi.org/10.1080/09298215.2017.1305419<">https://doi.org/10.1080/09298215.2017.1305419<</a>/li> 
+<li>Pearce, M. T. & M&uuml;llensiefen, D. (2017). <a href="assets/papers/PearceMullensiefen2017.pdf">Compression-based Modelling of Musical Similarity Perception.</a> <i>Journal of New Music Research</i>, 46, 135-155. <a href="https://doi.org/10.1080/09298215.2017.1305419<">https://doi.org/10.1080/09298215.2017.1305419</a></li> 
 
 <li>Van der Weij, B., Pearce, M. T., & Honing H. (2017). <a href="assets/papers/VanDerWeijPearceHoning2017.pdf">A probabilistic model of meter perception: simulating enculturation</a>. <i>Frontiers in Psychology</i>, 8, 824. <a href="https://doi.org/10.3389/fpsyg.2017.00824">https://doi.org/10.3389/fpsyg.2017.00824</a></li>
 
@@ -201,7 +201,7 @@ title: "Publications"
 
 <li>Schubert, E. & Pearce, M. T. (2016). <a href="assets/papers/SchubertPearce2016.pdf">A new look at musical expectancy: The veridical versus the general in the mental organization of music.</a> In R. Kronland-Martinet, M. Aramaki, and S. Ystad (eds.), <i>Music, Mind and Embodiment</i> (pp. 358–370). Springer. <a href="https://doi.org/10.1007/978-3-319-46282-0_23">https://doi.org/10.1007/978-3-319-46282-0_23</a></li>
 
-<li>Hansen, N. C., Sadakata, M., & Pearce, M. T. (2016). <a href="assets/papers/HansenSadakataPearce2016.pdf">Nonlinear changes in the rhythm of European art music: Quantitative support for historical musicology.</a> <i>Music Perception</i>, 33, 414-431. <a href="https://doi.org/10.1525/mp.2016.33.4.414<">https://doi.org/10.1525/mp.2016.33.4.414<</a>/li> 
+<li>Hansen, N. C., Sadakata, M., & Pearce, M. T. (2016). <a href="assets/papers/HansenSadakataPearce2016.pdf">Nonlinear changes in the rhythm of European art music: Quantitative support for historical musicology.</a> <i>Music Perception</i>, 33, 414-431. <a href="https://doi.org/10.1525/mp.2016.33.4.414<">https://doi.org/10.1525/mp.2016.33.4.414</a></li> 
 
 </ul>
 
@@ -258,13 +258,13 @@ title: "Publications"
 
 <ul class="publications">
 
-  <li>Carrus, E., Pearce, M. T., & Bhattacharya, J. (2012).  <a href="assets/papers/CarrusEtAlCortex2012.pdf">Melodic pitch expectation interacts with neural responses to syntactic but not semantic violations.</a>  <i>Cortex</i>, 49, 2186-2200. <a href="https://doi.org/10.1016/j.cortex.2012.08.024.">https://doi.org/10.1016/j.cortex.2012.08.024.</a></li>
+  <li>Carrus, E., Pearce, M. T., & Bhattacharya, J. (2012).  <a href="assets/papers/CarrusEtAlCortex2012.pdf">Melodic pitch expectation interacts with neural responses to syntactic but not semantic violations.</a>  <i>Cortex</i>, 49, 2186-2200. <a href="https://doi.org/10.1016/j.cortex.2012.08.024.">https://doi.org/10.1016/j.cortex.2012.08.024</a></li>
 
   <li>Pearce, M. T. & Rohrmeier, M. (2012). <a href="assets/papers/PearceRohrmeier2012.pdf">Music cognition and the cognitive sciences.</a>  <i>TopiCS in Cognitive Science</i>, 4, 468-484. <a href="https://doi.org/10.1111/j.1756-8765.2012.01226.x">https://doi.org/10.1111/j.1756-8765.2012.01226.x</a></li>
 
   <li>Cameron, D. J., Stewart, L., Pearce, M. T., Grube, M., & Muggleton, N. G. (2012).  <a href="assets/papers/CameronEtAl2012.pdf">Modulation of motor excitability by metricality of tone sequences.</a>  <i>Psychomusicology</i>, 22, 122-128.<a href=" http://doi.org/10.1037/a0031229"> http://doi.org/10.1037/a0031229</a></li>
 
-  <li>Omigie, D., Pearce, M. T., & Stewart, L. (2012). <a href="assets/papers/OmigieEtAlNeuropsychologia2012.pdf"> Tracking of pitch probabilities in congenital amusia. </a> <i>Neuropsychologia</i>, 50, 1483-1493. <a href="https://doi.org/j.neuropsychologia.2012.02.034<">https://doi.org/j.neuropsychologia.2012.02.034<</a>/li> 
+  <li>Omigie, D., Pearce, M. T., & Stewart, L. (2012). <a href="assets/papers/OmigieEtAlNeuropsychologia2012.pdf"> Tracking of pitch probabilities in congenital amusia. </a> <i>Neuropsychologia</i>, 50, 1483-1493. <a href="https://doi.org/j.neuropsychologia.2012.02.034<">https://doi.org/j.neuropsychologia.2012.02.034</a></li> 
 
   <li>Pearce, M. T. & Wiggins, G. (2012). <a href="assets/papers/PearceWiggins2012.pdf">Auditory expectation: The information dynamics of music perception and cognition.</a>  <i>TopiCS in Cognitive Science</i>, 4, 625-652. <a href="https://doi.org/10.1111/j.1756-8765.2012.01214.x">https://doi.org/10.1111/j.1756-8765.2012.01214.x</a></li>
 
