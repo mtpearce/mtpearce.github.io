@@ -127,7 +127,7 @@ title: "Publications"
 
 <li>Quiroga-Martinez, D. R., Hansen, N. C., Højlund, A., Pearce, M. T., Brattico, E., & Vuust, P. (2019). <a href="assets/papers/Quiroga-MartinezEtAl2019.pdf">Reduced prediction error responses in high-as compared to low-uncertainty musical contexts.</a> <i>Cortex</i>, 120, 181-200. <a href="https://doi.org/10.1016/j.cortex.2019.06.010">https://doi.org/10.1016/j.cortex.2019.06.010</a></li>
 
-<li>de Fleurian, R., Harrison, P. M., Pearce, M. T., & Quiroga-Martinez, D. R. (2019). <a href="assets/papers/deFleurianEtAl2019.pdf">Reward prediction tells us less than expected about musical pleasure</a>. <i>Proceedings of the National Academy of Sciences</i>, 116(42), 20813-20814.</i> <a href="https://doi.org/10.1073/pnas.1913244116">https://doi.org/10.1073/pnas.1913244116</a></li>
+<li>de Fleurian, R., Harrison, P. M., Pearce, M. T., & Quiroga-Martinez, D. R. (2019). <a href="assets/papers/deFleurianEtAl2019.pdf">Reward prediction tells us less than expected about musical pleasure</a>. <i>Proceedings of the National Academy of Sciences</i>, 116(42), 20813-20814. <a href="https://doi.org/10.1073/pnas.1913244116">https://doi.org/10.1073/pnas.1913244116</a></li>
 
 <li>Gold, B., Pearce, M. T., Mas-Herrero, E., Dagher, A., & Zatorre, R. J. (2019). <a href="assets/papers/GoldEtAl2019JNeuro.pdf">Predictability and uncertainty in the pleasure of music: a reward for learning?</a> <i>Journal of Neuroscience</i>, 39(47), 9397-9409. <a href="https://doi.org/10.1523/JNEUROSCI.0428-19.2019">https://doi.org/10.1523/JNEUROSCI.0428-19.2019</a></li>
 
@@ -308,7 +308,7 @@ title: "Publications"
 <h5>2009</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T. (2009). <a href="https://doi.org/10.1080/07494460802664080">To beep or not to beep.</a>  <i>Contemporary Music Review</i>, 28, 125-126."></li>
+  <li>Pearce, M. T. (2009). <a href="https://doi.org/10.1080/07494460802664080">To beep or not to beep.</a>  <i>Contemporary Music Review</i>, 28, 125-126.</li>
   
   <li>Wiggins, G., Pearce M. T., & M&uuml;llensiefen, D. (2009).  Computational modelling of music cognition and musical creativity . In R. Dean (Ed.), <i>The Oxford Handbook of Computer Music</i> (pp. 383-420). Oxford University Press.</li>
 
