@@ -295,7 +295,7 @@ title: "Publications"
 
   <li>Pearce, M. T., Ruiz, M. H., Kapasi, S., Wiggins, G., & Bhattacharya, J. (2010).  <a href="assets/papers/PearceEtAlNeuroImage2010.pdf">Unsupervised statistical learning underpins computational, behavioural and neural manifestations of musical expectation</a>. <i>NeuroImage</i>, 50, 302-313. <a href="https://doi.org/10.1016/j.neuroimage.2009.12.019">https://doi.org/10.1016/j.neuroimage.2009.12.019</a> </li>
 
-  <li>Wiggins, G., M&uuml;llensiefen, D., & Pearce, M. T. (2010).  <a href="assets/papers/WigginsMullensiefenPearceMusicaeScientiae2010.pdf">On the non-existence of music: Why music theory is a figment of the imagination.</a>  <i>Musicae Scientiae</i>, Discussion Forum 5, 231-255. <a href="https://doi.org/10.1177/10298649100140S11">https://doi.org/10.1177/10298649100140S11</a> </li>
+  <li>Wiggins, G., M&uuml;llensiefen, D., & Pearce, M. T. (2010).  <a href="assets/papers/WigginsMullensiefenPearceMusicaeScientiae2010.pdf">On the non-existence of music: Why music theory is a figment of the imagination.</a>  <i>Musicae Scientiae</i>, Discussion Forum 5, 231-255. <a href="https://doi.org/10.1177/10298649100140S110">https://doi.org/10.1177/10298649100140S110</a> </li>
 
   <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2010). <a href="assets/papers/PearceEtAlAMIR10.pdf"> Melodic grouping in music information retrieval: New methods and applications </a>. In Z. W. Ras and A. Wieczorkowska (Eds.), <i>Advances in Music Information Retrieval</i> (pp. 364-388). Springer. <a href="https://doi.org/10.1007/978-3-642-11674-2_16">https://doi.org/10.1007/978-3-642-11674-2_16</a> </li>
 
@@ -384,7 +384,7 @@ title: "Publications"
 <h5>2002</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T., Meredith, D. & Wiggins, G. (2002).  <a href="assets/papers/PearceEtAlMusicaeScientiae2002.pdf">Motivations and methodologies for automation of the compositional process.</a>  <i>Musicae Scientiae</i>, 6, 119-147. <a href="https://doi.org/10.1177/10298649020060020">https://doi.org/10.1177/10298649020060020</a> </li>
+  <li>Pearce, M. T., Meredith, D. & Wiggins, G. (2002).  <a href="assets/papers/PearceEtAlMusicaeScientiae2002.pdf">Motivations and methodologies for automation of the compositional process.</a>  <i>Musicae Scientiae</i>, 6, 119-147. <a href="https://doi.org/10.1177/102986490200600203">https://doi.org/10.1177/102986490200600203</a> </li>
 
   <li>Pearce, M. T. & Wiggins, G. (2002).  <a href="assets/papers/PearceWiggins2002.pdf">Aspects of a cognitive theory of creativity in musical composition.</a>  In <i>Proceedings of the ECAI'02 Workshop on Creative Systems</i>, (pp. 17-24). Lyon, France.</li>
 </ul>	  
