@@ -31,7 +31,7 @@ title: "Publications"
 
 <li>Bianco, R., Hall, E. T., Pearce, M. T., & Chait, M. (2023). <a href="assets/papers/BiancoEtAl2023.pdf">Implicit auditory memory in older listeners: From encoding to 6-month retention.</a> <i>Current Research in Neurobiology</i>, 100115. <a href="https://doi.org/10.1016/j.crneur.2023.100115">https://doi.org/10.1016/j.crneur.2023.100115</a></li>
 
-<li>Cheung, V., Harrison, P., Koelsch, S., Pearce, M., Friederici, A., & Meyer, L. (2023). <a href="assets/papers/CheungEtAl2023.pdf">Cognitive and sensory expectations independently shape musical expectancy and pleasure.</a> <i>Philosophical Transactions of the Royal Society B: Biological Sciences</i>, 379, 2022042020220420. <a href="http://doi.org/10.1098/rstb.2022.0420">http://doi.org/10.1098/rstb.2022.0420</a></li>
+<li>Cheung, V., Harrison, P., Koelsch, S., Pearce, M., Friederici, A., & Meyer, L. (2023). <a href="assets/papers/CheungEtAl2023.pdf">Cognitive and sensory expectations independently shape musical expectancy and pleasure.</a> <i>Philosophical Transactions of the Royal Society B: Biological Sciences</i>, 379, 20220420. <a href="http://doi.org/10.1098/rstb.2022.0420">http://doi.org/10.1098/rstb.2022.0420</a></li>
 
 </ul>
 
