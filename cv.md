@@ -171,8 +171,3 @@ title: "CV"
 
   </tr>
 </table>
-
-
-
-
-
