@@ -9,7 +9,7 @@ title: "Publications"
 
 <ul class="publications">
 
-<li>Clemente, A., Kaplan, T. M., & Pearce, M. T. (2024). <a href="assets/papers/ClementeEtAl2024.pdf">Perceptual representations mediate effects of stimulus properties on liking for music.</a> <i>Annals of the New York Academy of Sciences</i>, in press. <a href="https://doi.org/10.1111/nyas.15106">https://doi.org/10.1111/nyas.15106</a></li>
+<li>Clemente, A., Kaplan, T. M., & Pearce, M. T. (2024). <a href="assets/papers/ClementeEtAl2024.pdf">Perceptual representations mediate effects of stimulus properties on liking for music.</a> <i>Annals of the New York Academy of Sciences</i>, 1533, 169-180. <a href="https://doi.org/10.1111/nyas.15106">https://doi.org/10.1111/nyas.15106</a></li>
 
 <li>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="assets/papers/ReedEtAl2024.pdf">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. <a href="https://doi.org/10.1177/10298649231223077">https://doi.org/10.1177/10298649231223077</a></li>
 
