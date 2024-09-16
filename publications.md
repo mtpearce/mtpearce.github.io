@@ -9,11 +9,20 @@ title: "Publications"
 
 <ul class="publications">
 
+<li>Bonetti, L., Stevner, A., Deco, G., Whybrow, P. C., Pearce, M. T., Pantazis, D., Vuust, P., & Kringelbach, M. L. (2024). <a href="">Spatiotemporal whole-brain activity and functional connectivity of melodies recog- nition.<\a> <i>Cerebral Cortex</i>, 34, bhae320. <a href="https://doi.org/10.1093/cercor/bhae320">https://doi.org/10.1093/cercor/bhae320</a></li>
+
 <li>Clemente, A., Kaplan, T. M., & Pearce, M. T. (2024). <a href="assets/papers/ClementeEtAl2024.pdf">Perceptual representations mediate effects of stimulus properties on liking for music.</a> <i>Annals of the New York Academy of Sciences</i>, 1533, 169-180. <a href="https://doi.org/10.1111/nyas.15106">https://doi.org/10.1111/nyas.15106</a></li>
+
+<li>Hamilton, M., & Pearce, M. T. (2024). <a href="assets/papers/HamiltonPearce2024.pdf">Trajectories and revolutions in popular melody based on U.S. charts from 1950 to 2023.</a> <i>Scientific Reports</i>, 14, 14749. <a href="https://doi.org/10.1038/s41598-024-64571-x">https://doi.org/10.1038/s41598-024-64571-x</a></li>
+
+<li>Hamilton, M., Clemente, A., Hall, E. T. R., & Pearce, M. T. (2024). <a href="assets/papers/HamiltonEtAl2024.pdf">The Billboard melodic music dataset (BiMMuDa).</a> <i>Transactions of the International Society for Music Information Retrieval</i>, 7(1), 113– 128. <a href="https://doi.org/10.5334/tismir.168">https://doi.org/10.5334/tismir.168</a></li>
+
+<li>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="assets/papers/ReedEtAl2024.pdf">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. <a href="https://doi.org/10.1177/10298649231223077">https://doi.org/10.1177/10298649231223077</a></li>
 
 <li>van der Weij, B., Pearce, M. T., & Honing, H. (2024). <a href="assets/papers/VanDerWeijEtAl2024.pdf">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780190945442.013.13">https://doi.org/10.1093/oxfordhb/9780190945442.013.13</a></li>
 
-<li>Reed, C., Pearce, M. T., & McPherson, A. (2024). <a href="assets/papers/ReedEtAl2024.pdf">Auditory imagery ability influences accuracy when singing with altered auditory feedback.</a> <i>Musicae Scientiae</i>, in press. <a href="https://doi.org/10.1177/10298649231223077">https://doi.org/10.1177/10298649231223077</a></li>
+<li>Zioga, I., Harrison, P. M. C., Pearce, M. T., Bhattacharya, J., Di, C., & Luft, B. (2024). <a href="assets/papers/ZiogaEtAl2024.pdf">The association between liking, learning and creativity in music.</a> <i>Scientific Reports</i>, 14, 19048. <a href="https://doi.org/10.1038/s41598-024-70027-z">https://doi.org/10.1038/s41598-024-70027-z</a></li>
+
 
 </ul>
 
