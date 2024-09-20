@@ -276,11 +276,11 @@ title: "Publications"
 
   <li>Cameron, D. J., Stewart, L., Pearce, M. T., Grube, M., & Muggleton, N. G. (2012).  <a href="assets/papers/CameronEtAl2012.pdf">Modulation of motor excitability by metricality of tone sequences.</a>  <i>Psychomusicology</i>, 22, 122-128.<a href=" http://doi.org/10.1037/a0031229"> http://doi.org/10.1037/a0031229</a></li>
 
-  <li>Omigie, D., Pearce, M. T., & Stewart, L. (2012). <a href="assets/papers/OmigieEtAlNeuropsychologia2012.pdf"> Tracking of pitch probabilities in congenital amusia. </a> <i>Neuropsychologia</i>, 50, 1483-1493. <a href="https://doi.org/j.neuropsychologia.2012.02.034<">https://doi.org/j.neuropsychologia.2012.02.034</a></li> 
+  <li>Omigie, D., Pearce, M. T., & Stewart, L. (2012). <a href="assets/papers/OmigieEtAlNeuropsychologia2012.pdf"> Tracking of pitch probabilities in congenital amusia. </a> <i>Neuropsychologia</i>, 50, 1483-1493. <a href="https://doi.org/10.1016/j.neuropsychologia.2012.02.034<">https://doi.org/10.1016/j.neuropsychologia.2012.02.034</a></li> 
 
   <li>Pearce, M. T. & Wiggins, G. (2012). <a href="assets/papers/PearceWiggins2012.pdf">Auditory expectation: The information dynamics of music perception and cognition.</a>  <i>TopiCS in Cognitive Science</i>, 4, 625-652. <a href="https://doi.org/10.1111/j.1756-8765.2012.01214.x">https://doi.org/10.1111/j.1756-8765.2012.01214.x</a></li>
 
-  <li>Pearce, M. T., & Christensen, J.F. (2012).  <a href="assets/papers/PearceChristensen2012.pdf">Conference Report: The Neurosciences and Music - IV - Learning and Memory.</a>  <i>Psychomusicology</i>, 22, 70-73. ht<a href="tp://dx.doi.org/10.1037/a0027235">tp://dx.doi.org/10.1037/a0027235</a></li>
+  <li>Pearce, M. T., & Christensen, J.F. (2012).  <a href="assets/papers/PearceChristensen2012.pdf">Conference Report: The Neurosciences and Music - IV - Learning and Memory.</a>  <i>Psychomusicology</i>, 22, 70-73. <a href="https://doi.org/10.1037/a0027235">https://doi.org/10.1037/a0027235</a></li>
 </ul>
 
 
