@@ -187,9 +187,9 @@ title: "Publications"
 
 <li>Halpern, A., Zioga, I., Shankleman, M., Lindsen, J., Pearce, M. T., & Bhattacharya, J. (2017). <a href="assets/papers/HalpernEtAl2017.pdf">That note sounds wrong! Age-related effects in processing of musical expectation.</a> <i>Brain and Cognition</i>, 113, 1-9. <a href="https://doi.org/10.1016/j.bandc.2016.12.006">https://doi.org/10.1016/j.bandc.2016.12.006</a></li>
 
-<li>Pearce, M. T., & Eerola, T. (2017). <a href="assets/papers/PearceEerola2017.pdf">Predictive modelling of music perception in historical audiences.</a> <i>Journal of Interdisciplinary Music Studies</i>, 8, 91-120.</li>
+<li>Pearce, M. T., & Eerola, T. (2017). <a href="assets/papers/PearceEerola2017.pdf">Predictive modelling of music perception in historical audiences.</a> <i>Journal of Interdisciplinary Music Studies</i>, 8, 91-120. <a href="https://doi.org/10.4407/jims.2016.12.004">https://doi.org/10.4407/jims.2016.12.004</a></li>
 
-<li>Eerola, T., & Pearce, M. T. (2017). <a href="assets/papers/EerolaPearce2017.pdf">Modelling historical audiences: What can be inferred?</a> <i>Journal of Interdisciplinary Music Studies</i>, 8, 132-140.</li>
+<li>Eerola, T., & Pearce, M. T. (2017). <a href="assets/papers/EerolaPearce2017.pdf">Modelling historical audiences: What can be inferred?</a> <i>Journal of Interdisciplinary Music Studies</i>, 8, 132-140.<a href="https://doi.org/10.4407/jims.2016.12.004">https://doi.org/10.4407/jims.2016.12.004</a></li>
 
 </ul>
 
