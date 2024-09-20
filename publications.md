@@ -3,7 +3,7 @@ layout: default
 title: "Publications"
 ---
 
-<p>Full list: <a href="http://scholar.google.co.uk/citations?user=UImWMekAAAAJ">http://scholar.google.co.uk/citations?user=UImWMekAAAAJ</a></p>
+<p>Full list: <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ">https://scholar.google.co.uk/citations?user=UImWMekAAAAJ</a></p>
 
 <h5>2024</h5>
 
@@ -41,7 +41,7 @@ title: "Publications"
 
 <li>Bianco, R., Hall, E. T., Pearce, M. T., & Chait, M. (2023). <a href="assets/papers/BiancoEtAl2023.pdf">Implicit auditory memory in older listeners: From encoding to 6-month retention.</a> <i>Current Research in Neurobiology</i>, 100115. <a href="https://doi.org/10.1016/j.crneur.2023.100115">https://doi.org/10.1016/j.crneur.2023.100115</a></li>
 
-<li>Cheung, V., Harrison, P., Koelsch, S., Pearce, M., Friederici, A., & Meyer, L. (2023). <a href="assets/papers/CheungEtAl2023.pdf">Cognitive and sensory expectations independently shape musical expectancy and pleasure.</a> <i>Philosophical Transactions of the Royal Society B: Biological Sciences</i>, 379, 20220420. <a href="http://doi.org/10.1098/rstb.2022.0420">http://doi.org/10.1098/rstb.2022.0420</a></li>
+<li>Cheung, V., Harrison, P., Koelsch, S., Pearce, M., Friederici, A., & Meyer, L. (2023). <a href="assets/papers/CheungEtAl2023.pdf">Cognitive and sensory expectations independently shape musical expectancy and pleasure.</a> <i>Philosophical Transactions of the Royal Society B: Biological Sciences</i>, 379, 20220420. <a href="https://doi.org/10.1098/rstb.2022.0420">https://doi.org/10.1098/rstb.2022.0420</a></li>
 
 </ul>
 
@@ -108,7 +108,7 @@ title: "Publications"
 
 <li>Quiroga-Martinez, D. R., Hansen, N. C., Højlund, A., Pearce, M. T., Brattico, E., & Vuust, P. (2020). <a href="assets/papers/Quiroga-MartinezEtAl2020-EJN.pdf">Musical prediction error responses similarly reduced by predictive uncertainty in musicians and non‐musicians.</a> <i>European Journal of Neuroscience</i>, 51, 2200-2269. <a href="https://doi.org/10.1111/ejn.14667">https://doi.org/10.1111/ejn.14667</a></li>
 
-<li>Ycart, A., Liu, L., Benetos, E., & Pearce, M. T. (2020). <a href= "assets/papers/YcartEtAl2020.pdf">Investigating the perceptual validity of evaluation metrics for automatic piano music transcription.</a> <i>Transactions of the International Society for Music Information Retrieval</i>, 3, 68-81.<a href=" http://doi.org/10.5334/tismir.57"> http://doi.org/10.5334/tismir.57</a></li>
+<li>Ycart, A., Liu, L., Benetos, E., & Pearce, M. T. (2020). <a href= "assets/papers/YcartEtAl2020.pdf">Investigating the perceptual validity of evaluation metrics for automatic piano music transcription.</a> <i>Transactions of the International Society for Music Information Retrieval</i>, 3, 68-81.<a href=" https://doi.org/10.5334/tismir.57"> https://doi.org/10.5334/tismir.57</a></li>
 
 <li>Quiroga-Martinez, D. R., Hansen, N. C., Højlund, A., Pearce, M. T., Brattico, E., & Vuust, P. (2020). <a href="assets/papers/Quiroga-MartinezEtAl2020.pdf">Decomposing neural responses to melodic surprise in musicians and non-musicians: evidence for a hierarchy of predictions in the auditory system.</a> <i>NeuroImage</i>, 215, 116816. <a href="https://doi.org/10.1016/j.neuroimage.2020.116816">https://doi.org/10.1016/j.neuroimage.2020.116816</a></li>
 
@@ -274,7 +274,7 @@ title: "Publications"
 
   <li>Pearce, M. T. & Rohrmeier, M. (2012). <a href="assets/papers/PearceRohrmeier2012.pdf">Music cognition and the cognitive sciences.</a>  <i>TopiCS in Cognitive Science</i>, 4, 468-484. <a href="https://doi.org/10.1111/j.1756-8765.2012.01226.x">https://doi.org/10.1111/j.1756-8765.2012.01226.x</a></li>
 
-  <li>Cameron, D. J., Stewart, L., Pearce, M. T., Grube, M., & Muggleton, N. G. (2012).  <a href="assets/papers/CameronEtAl2012.pdf">Modulation of motor excitability by metricality of tone sequences.</a>  <i>Psychomusicology</i>, 22, 122-128.<a href=" http://doi.org/10.1037/a0031229"> http://doi.org/10.1037/a0031229</a></li>
+  <li>Cameron, D. J., Stewart, L., Pearce, M. T., Grube, M., & Muggleton, N. G. (2012).  <a href="assets/papers/CameronEtAl2012.pdf">Modulation of motor excitability by metricality of tone sequences.</a>  <i>Psychomusicology</i>, 22, 122-128.<a href=" https://doi.org/10.1037/a0031229"> https://doi.org/10.1037/a0031229</a></li>
 
   <li>Omigie, D., Pearce, M. T., & Stewart, L. (2012). <a href="assets/papers/OmigieEtAlNeuropsychologia2012.pdf"> Tracking of pitch probabilities in congenital amusia. </a> <i>Neuropsychologia</i>, 50, 1483-1493. <a href="https://doi.org/10.1016/j.neuropsychologia.2012.02.034<">https://doi.org/10.1016/j.neuropsychologia.2012.02.034</a></li> 
 
@@ -322,7 +322,7 @@ title: "Publications"
   
   <li>Wiggins, G., Pearce M. T., & M&uuml;llensiefen, D. (2009).  Computational modelling of music cognition and musical creativity . In R. Dean (Ed.), <i>The Oxford Handbook of Computer Music</i> (pp. 383-420). Oxford University Press.</li>
 
-  <li>Rohrmeier, M., Honing, H., Rebuschat, P., Loui, P., Wiggins, G., Pearce, M. T., M&uuml;llensiefen, D. (2009).  <a href="http://csjarchive.cogsci.rpi.edu/proceedings/2009/papers/5/paper5.pdf">Music Cognition: Learning and Processing.</a>  In N. A. Taatgen & H. v. Rijn (Eds.), <i>Proceedings of the 31st Annual Conference of the Cognitive Science Society</i> (pp. 41-42). Cognitive Science Society.</li>
+  <li>Rohrmeier, M., Honing, H., Rebuschat, P., Loui, P., Wiggins, G., Pearce, M. T., M&uuml;llensiefen, D. (2009).  <a href="https://csjarchive.cogsci.rpi.edu/proceedings/2009/papers/5/paper5.pdf">Music Cognition: Learning and Processing.</a>  In N. A. Taatgen & H. v. Rijn (Eds.), <i>Proceedings of the 31st Annual Conference of the Cognitive Science Society</i> (pp. 41-42). Cognitive Science Society.</li>
 </ul>
 
 <br>
@@ -364,7 +364,7 @@ title: "Publications"
 <h5>2005</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T. (2005).  <a href="assets/papers/Pearce2005.pdf">The Construction and Evaluation of Statistical Models of Melodic Structure in Music Perception and Composition</a>. <i>Doctoral Dissertation</i>, Department of Computer Science, City University of London, UK. Examiners: <a href="http://users.jyu.fi/~ptoiviai/">Petri Toiviainen</a> and <a href="http://www.soi.city.ac.uk/~aag">Artur d'Avila Garcez</a></li>
+  <li>Pearce, M. T. (2005).  <a href="assets/papers/Pearce2005.pdf">The Construction and Evaluation of Statistical Models of Melodic Structure in Music Perception and Composition</a>. <i>Doctoral Dissertation</i>, Department of Computer Science, City University of London, UK. Examiners: <a href="https://users.jyu.fi/~ptoiviai/">Petri Toiviainen</a> and <a href="https://www.soi.city.ac.uk/~aag">Artur d'Avila Garcez</a></li>
 
   <li>Pearce, M. T., Conklin, D. & Wiggins, G. (2005).  <a href="assets/papers/PearceEtAl2005.pdf">Methods for combining statistical models of music.</a>  In U. K. Wiil (Ed.), <i>Computer Music Modelling and Retrieval</i> (pp. 295-312). Springer.</li>
 </ul>
