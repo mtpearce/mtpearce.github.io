@@ -364,7 +364,7 @@ title: "Publications"
 <h5>2005</h5> 
 <ul class="publications">
 
-  <li>Pearce, M. T. (2005).  <a href="assets/papers/Pearce2005.pdf">The Construction and Evaluation of Statistical Models of Melodic Structure in Music Perception and Composition</a>. <i>Doctoral Dissertation</i>, Department of Computer Science, City University of London, UK. Examiners: <a href="https://users.jyu.fi/~ptoiviai/">Petri Toiviainen</a> and <a href="https://www.soi.city.ac.uk/~aag">Artur d'Avila Garcez</a></li>
+  <li>Pearce, M. T. (2005).  <a href="assets/papers/Pearce2005.pdf">The Construction and Evaluation of Statistical Models of Melodic Structure in Music Perception and Composition</a>. <i>Doctoral Dissertation</i>, Department of Computer Science, City University of London, UK. Examiners: <a href="https://scholar.google.com/citations?user=L0c3kWEAAAAJ">Petri Toiviainen</a> and <a href="https://scholar.google.com/citations?user=BCpY0gsAAAAJ">Artur d'Avila Garcez</a></li>
 
   <li>Pearce, M. T., Conklin, D. & Wiggins, G. (2005).  <a href="assets/papers/PearceEtAl2005.pdf">Methods for combining statistical models of music.</a>  In U. K. Wiil (Ed.), <i>Computer Music Modelling and Retrieval</i> (pp. 295-312). Springer.</li>
 </ul>
