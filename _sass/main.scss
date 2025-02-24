@@ -37,7 +37,7 @@ html {
 
 body {
     background: $backgroundColor;
-    color: $dark-gray; // $bodyColor;
+    color: $gray; // $bodyColor;
     font-size: small; 
     font-family: $bodyFont;
     text-align: left; 
@@ -78,6 +78,12 @@ li:not(:last-child) {
 .title {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300; 
+}
+
+.title-nav {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300; 
+    margin-bottom: 0;
 }
 
 /* Side bar on main page */
