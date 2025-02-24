@@ -5,7 +5,13 @@ $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
 $sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $linkColor: #212529 !important;
+
 $github-color               : #171516;
+// $orcid-color                : #a6ce39;
+// $orcid-color                : #b2c046;
+$orcid-color                : #afcd3a;
+$pubmed-color               : #326599
+$google-scholar-color       : #4d90fe
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
@@ -21,17 +27,17 @@ $border-color               : $lighter-gray;
 /* Standard Elements */
 
 html {
-    font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     overflow-y: scroll;
     height: 100%;
     margin-bottom: 0.01em;
 }
 
 body {
+    font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
     background: $backgroundColor;
     color: $bodyColor;
     font-size: small; 
-    font-family: $bodyFont;
+    // font-family: $bodyFont;
     text-align: left; 
 }
 
@@ -102,6 +108,27 @@ li:not(:last-child) {
     .fa-github-square {
         color: $github-color;
     }
+
+    .ai-orcid,
+    .ai-orcid-alt,
+    .ai-orcid-square {
+        color: $orcid-color;
+    }
+
+    .ai-pubmed,
+    .ai-pubmed-alt,
+    .ai-pubmed-square {
+        color: $pubmed-color;
+    }
+
+    .fa-graduation-cap,
+    .fa-graduation-cap-alt,
+    .fa-graduation-cap-square {
+        color: $google-scholar-color;
+    }
+
+
+    
 }
 
 
@@ -125,7 +152,7 @@ li:not(:last-child) {
     margin-top: 35px; 
 
     a {
-        text-decoration: underline;
+        // text-decoration: underline;
     }
 }
 
