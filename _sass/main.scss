@@ -10,8 +10,8 @@ $github-color               : #171516;
 // $orcid-color                : #a6ce39;
 // $orcid-color                : #b2c046;
 $orcid-color                : #afcd3a;
-$pubmed-color               : #326599
-$google-scholar-color       : #4d90fe
+$pubmed-color               : #326599;
+$google-scholar-color       : #4d90fe;
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
@@ -126,9 +126,6 @@ li:not(:last-child) {
     .fa-graduation-cap-square {
         color: $google-scholar-color;
     }
-
-
-    
 }
 
 
@@ -151,9 +148,9 @@ li:not(:last-child) {
     overflow: hidden;
     margin-top: 35px; 
 
-    a {
+    //a {
         // text-decoration: underline;
-    }
+    //}
 }
 
 
