@@ -72,10 +72,12 @@ ul {
 li:not(:last-child) {
     margin-bottom: 5px;
 }
+
 /* Title */
 
 .title {
-    font-family: $bodyFont;
+    font-family: "Open Sans";
+    font-weight: 300; 
 }
 
 /* Side bar on main page */
