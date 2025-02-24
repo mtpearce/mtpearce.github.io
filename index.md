@@ -7,7 +7,7 @@ title: "Home"
 
 <a href="https://pure.au.dk/portal/en/persons/marcus-pearce(f0db7f72-b766-44d2-aece-e5f85ddbf172).html">Honorary Professor of Neuroscience</a> at Aarhus University, Denmark.
 
-Leader of the <a href="http://music-cognition.eecs.qmul.ac.uk">Music Cognition Lab</a> at QMUL.
+Leader of the <a href="http://music-cognition.eecs.qmul.ac.uk">Music Cognition Lab</a>.
 
 Lead developer on the <a href="https://www.marcus-pearce.com/idyom">IDyOM project</a>.
 
