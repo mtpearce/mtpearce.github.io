@@ -2,10 +2,10 @@
 
 $backgroundColor: #ffffff;
 $bodyColor: #000000;
-$bodyFont: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-$sans-serif: $bodyFont;
-// $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-// $sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+// $bodyFont: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $sans-serif: $bodyFont;
+$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$sans-serif: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $linkColor: #212529 !important;
 
 $github-color               : #171516;
@@ -37,7 +37,7 @@ html {
 
 body {
     background: $backgroundColor;
-    color: $bodyColor;
+    color: $dark-gray; // $bodyColor;
     font-size: small; 
     font-family: $bodyFont;
     text-align: left; 
