@@ -7,7 +7,7 @@ title: "Home"
 
 <br>
 
-Honorary Professor of Neuroscience at <a href="https://pure.au.dk/portal/en/persons/marcus-pearce(f0db7f72-b766-44d2-aece-e5f85ddbf172).html">Aarhus University</a>, Denmark.
+<a href="https://pure.au.dk/portal/en/persons/marcus-pearce(f0db7f72-b766-44d2-aece-e5f85ddbf172).html">Honorary Professor of Neuroscience</a> at Aarhus University, Denmark.
 
 <br>
 
