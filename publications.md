@@ -27,7 +27,7 @@ title: "Publications"
 
 <br>
 
-<h5>2023</h5>
+<h6>2023</h6>
 
 <ul class="publications">
 
@@ -47,7 +47,7 @@ title: "Publications"
 
 <br>
 
-<h5>2022</h5> 
+<h6>2022</h6> 
 
 <ul class="publications">
 
@@ -67,7 +67,7 @@ title: "Publications"
 
 <br>
 
-<h5>2021</h5> 
+<h6>2021</h6> 
 
 <ul class="publications">
 
@@ -94,7 +94,7 @@ title: "Publications"
 
 <br>
 
-<h5>2020</h5> 
+<h6>2020</h6> 
 
 <ul class="publications">
 
@@ -123,7 +123,7 @@ title: "Publications"
 
 <br>
 
-<h5>2019</h5>
+<h6>2019</h6>
 
 <ul class="publications">
 
@@ -149,7 +149,7 @@ title: "Publications"
 
 <br>
 
-<h5>2018</h5>
+<h6>2018</h6>
 
 <ul class="publications">
 
@@ -175,7 +175,7 @@ title: "Publications"
 
 <br>
 
-<h5>2017</h5>
+<h6>2017</h6>
 
 <ul class="publications">
 
@@ -195,7 +195,7 @@ title: "Publications"
 
 <br>
 
-<h5>2016</h5>
+<h6>2016</h6>
 
 <ul class="publications">
 
@@ -219,7 +219,7 @@ title: "Publications"
 
 <br>
 
-<h5>2015</h5>
+<h6>2015</h6>
 
 <ul class="publications">
  <li>Pearce, M. T. (2015). <a href="assets/papers/Pearce2015.pdf">Effects of expertise on the cognitive and neural processes involved in musical appreciation.</a>  In J.P. Huston, M. Nadal, L. Agnati, F. Mora, and C.J. Cela-Conde (eds.), <i>Art, Aesthetics and the Brain</i> (pp. 319-338). Oxford University Press.</li>
@@ -232,7 +232,7 @@ title: "Publications"
 
 <br>
 
-<h5>2014</h5>
+<h6>2014</h6>
 
 <ul class="publications">
 
@@ -242,7 +242,7 @@ title: "Publications"
 
 <br>
 
-<h5>2013</h5>
+<h6>2013</h6>
 
 <ul class="publications">
 
@@ -266,7 +266,7 @@ title: "Publications"
 
 <br>
 
-<h5>2012</h5>
+<h6>2012</h6>
 
 <ul class="publications">
 
@@ -286,7 +286,7 @@ title: "Publications"
 
 <br>
 
-<h5>2011</h5> 
+<h6>2011</h6> 
 
 <ul class="publications">
 
@@ -297,7 +297,7 @@ title: "Publications"
 
 <br>
 
-<h5>2010</h5> 
+<h6>2010</h6> 
 
 <ul class="publications">
 
@@ -315,7 +315,7 @@ title: "Publications"
 
 <br>
 
-<h5>2009</h5> 
+<h6>2009</h6> 
 <ul class="publications">
 
   <li>Pearce, M. T. (2009). <a href="https://doi.org/10.1080/07494460802664080">To beep or not to beep.</a>  <i>Contemporary Music Review</i>, 28, 125-126. <a href="https://doi.org/10.1080/07494460802664080">https://doi.org/10.1080/07494460802664080</a> </li>
@@ -327,7 +327,7 @@ title: "Publications"
 
 <br>
 
-<h5>2008</h5> 
+<h6>2008</h6> 
 <ul class="publications">
 
   <li>Pearce, M. T., M&uuml;llensiefen, D., & Wiggins, G. (2008).  <a href="assets/papers/PearceEtAlISMIR08.pdf">A comparison of statistical and rule-based models of melodic segmentation.</a>  In <i>Proceedings of the Ninth International Conference on Music Information Retrieval,</i> (pp. 89-94). Drexel University.</li>
@@ -338,7 +338,7 @@ title: "Publications"
 
 <br>
 
-<h5>2007</h5> 
+<h6>2007</h6> 
 <ul class="publications">
 
   <li>Potter, K., Wiggins, G., & Pearce, M. T. (2007).  <a href="assets/papers/PotterWigginsPearceMS07.pdf">Towards greater objectivity in music theory: Information-dynamic analysis of minimalist music.</a>  <i>Musicae Scientiae</i>, 11, 295-322. <a href="https://doi.org/10.1177/102986490701100207">https://doi.org/10.1177/102986490701100207</a> </li>
@@ -351,7 +351,7 @@ title: "Publications"
 
 <br>
 
-<h5>2006</h5> 
+<h6>2006</h6> 
 <ul class="publications">
 
   <li>Pearce, M. T. & Wiggins, G. (2006).  <a href="assets/papers/PearceWigginsMP06.pdf">Expectation in melody: The influence of context and learning.</a>  <i>Music Perception</i>, 23, 377-405. <a href="https://doi.org/10.1525/mp.2006.23.5.377">https://doi.org/10.1525/mp.2006.23.5.377</a> </li>
@@ -361,7 +361,7 @@ title: "Publications"
 
 <br>
 
-<h5>2005</h5> 
+<h6>2005</h6> 
 <ul class="publications">
 
   <li>Pearce, M. T. (2005).  <a href="assets/papers/Pearce2005.pdf">The Construction and Evaluation of Statistical Models of Melodic Structure in Music Perception and Composition</a>. <i>Doctoral Dissertation</i>, Department of Computer Science, City University of London, UK. Examiners: <a href="https://scholar.google.com/citations?user=L0c3kWEAAAAJ">Petri Toiviainen</a> and <a href="https://scholar.google.com/citations?user=BCpY0gsAAAAJ">Artur d'Avila Garcez</a></li>
@@ -371,7 +371,7 @@ title: "Publications"
 
 <br>
 
-<h5>2004</h5> 
+<h6>2004</h6> 
 <ul class="publications">
 
   <li>Pearce, M. T. & Wiggins, G. (2004).  <a href="assets/papers/PearceWigginsJNMR04.pdf">Improved methods for statistical modelling of monophonic music.</a>  <i>Journal of New Music Research</i>, 33, 367-385. <a href="https://doi.org/10.1080/0929821052000343840">https://doi.org/10.1080/0929821052000343840</a> </li>
@@ -383,7 +383,7 @@ title: "Publications"
 
 <br>
 
-<h5>2003</h5> 
+<h6>2003</h6> 
 <ul class="publications">
 
   <li>Pearce, M. T. & Wiggins, G. (2003).  An empirical comparison of the performance of PPM variants on a prediction task with monophonic music.  In <i>Proceedings of the AISB'03 Symposium on Artificial Intelligence and Creativity in Arts and Science</i>, (pp. 74-83). SSAISB.</li>
@@ -391,7 +391,7 @@ title: "Publications"
 
 <br>
 
-<h5>2002</h5> 
+<h6>2002</h6> 
 <ul class="publications">
 
   <li>Pearce, M. T., Meredith, D. & Wiggins, G. (2002).  <a href="assets/papers/PearceEtAlMusicaeScientiae2002.pdf">Motivations and methodologies for automation of the compositional process.</a>  <i>Musicae Scientiae</i>, 6, 119-147. <a href="https://doi.org/10.1177/102986490200600203">https://doi.org/10.1177/102986490200600203</a> </li>
@@ -401,7 +401,7 @@ title: "Publications"
 
 <br>
 
-<h5>2001</h5> 
+<h6>2001</h6> 
 <ul class="publications">
 
   <li>Pearce, M. T. & Wiggins, G. (2001).  <a href="assets/papers/PearceEtAl2001.pdf">Towards a framework for the evaluation of machine compositions.</a>  In <i>Proceedings of the AISB'01 Symposium on Artificial Intelligence and Creativity in the Arts and Sciences</i>, (pp.22-32). SSAISB.</li> 
@@ -411,7 +411,7 @@ title: "Publications"
 
 <br>
 
-<h5>2000</h5> 
+<h6>2000</h6> 
 <ul class="publications">
 
   <li>Pearce, M. T. (2000).  <a href="assets/papers/Pearce2000.pdf">Generating Rhythmic Patterns: A Combined Neural and Evolutionary Approach.</a> <i>Masters Dissertation</i>, Department of Artificial Intelligence, University of Edinburgh, UK.</li>
@@ -421,7 +421,7 @@ title: "Publications"
 <!--
 <br>
 
-<h5>Conference papers, Presentations and Seminars</h5>
+<h6>Conference papers, Presentations and Seminars</h6>
 
 <ul class="publications">
   <li>Cameron,  D., Lindsen, J., Pearce, M. T., Wiggins, G., Potter, K. and Bhattacharya, J. (2012). Entrainment of Premotor Cortex Activity by Ambiguity in Musical Metre. In <i>Proceedings of the 12th International Conference on Music Perception and Cognition</i>. Thessaloniki, Greece.</li>

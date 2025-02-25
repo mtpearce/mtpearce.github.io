@@ -43,7 +43,7 @@ title: "CV"
 
 <br> 
 
-<h5>Education</h5>
+<h6>Education</h6>
 
 <table class="body-table">
   <tr>   
@@ -65,7 +65,7 @@ title: "CV"
 
 <br> 
 
-<h5>Funding</h5>
+<h6>Funding</h6>
 
 <table class="body-table">
   <thead>
