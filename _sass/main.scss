@@ -79,6 +79,9 @@ li:not(:last-child) {
     color: #515151;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
+    margin-bottom: 0;
+    border: none;
+    padding:0em 0em 0em 0em;
 }
 
 .title-nav {
@@ -86,9 +89,8 @@ li:not(:last-child) {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400; 
     margin-bottom: 0;
-    margin-top: 30em;
     border: none;
-    padding:100em 0em 0em 0em;
+    padding:0em 0em 0em 0em;
     // text-transform: uppercase;
 }
 
