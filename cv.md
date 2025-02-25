@@ -3,7 +3,7 @@ layout: default
 title: "CV"
 ---
 
-<h5>Positions</h5>
+<h6>Positions</h6>
 
 <table class="body-table">
   <tr>
