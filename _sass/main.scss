@@ -82,6 +82,7 @@ li:not(:last-child) {
     margin-bottom: 0;
     border: none;
     padding:0em 0em 0em 0em;
+    align-items: flex-start;
 }
 
 .title-nav {
@@ -91,6 +92,7 @@ li:not(:last-child) {
     margin-bottom: 0;
     border: none;
     padding:0em 0em 0em 0em;
+    align-items: flex-start;
     // text-transform: uppercase;
 }
 
