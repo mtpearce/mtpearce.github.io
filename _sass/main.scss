@@ -79,7 +79,6 @@ li:not(:last-child) {
     color: #515151;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    text-transform: uppercase;
 }
 
 .title-nav {
@@ -88,10 +87,8 @@ li:not(:last-child) {
     font-weight: 400; 
     margin-bottom: 0;
     border: none;
-    padding:0em 0 0em 0em;
-    position: absolute;
-    bottom: 0;
-    text-transform: uppercase;
+    padding:100em 0 0em 0em;
+    // text-transform: uppercase;
 }
 
 /* Side bar on main page */
