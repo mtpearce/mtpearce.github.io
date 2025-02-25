@@ -78,16 +78,20 @@ li:not(:last-child) {
 .title {
     color: #515151;
     font-family: 'Open Sans', sans-serif;
-    font-weight: 300; 
+    font-weight: 300;
+    text-transform: uppercase;
 }
 
 .title-nav {
     color: #515151;
     font-family: 'Open Sans', sans-serif;
-    font-weight: 300; 
+    font-weight: 400; 
     margin-bottom: 0;
     border: none;
-    padding:70em 0 0em 0em;
+    padding:0em 0 0em 0em;
+    position: absolute;
+    bottom: 0;
+    text-transform: uppercase;
 }
 
 /* Side bar on main page */
