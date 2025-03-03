@@ -5,6 +5,10 @@ title: "Publications"
 
 <p>Full list: <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ">https://scholar.google.co.uk/citations?user=UImWMekAAAAJ</a></p>
 
+<h6>2025</h6>
+
+<li>Pearce, M. T. (2025). <a href="https://global.oup.com/academic/product/learning-to-listen-listening-to-learn-9780198848004"><i>Learning to listen, listening to learn: Music perception and the psychology of enculturation</i>.</a> Oxford University Press. <!-- https://doi.org/10.1093/oso/9780198848004.001.0001 --> 
+
 <h6>2024</h6>
 
 <ul class="publications">
