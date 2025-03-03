@@ -1,11 +1,11 @@
-<header class="d-flex flex-column flex-md-row pb-3 mb-5 border-bottom">
+<header class="d-flex flex-column align-items-flex-end flex-md-row pb-3 mb-5 border-bottom">
   <div>
-    <a href="{{ site.github.url }}/" class="d-flex align-items-center text-decoration-none">
+    <a href="{{ site.github.url }}/" class="d-flex align-items-flex-end text-decoration-none">
       <span class = "title fs-4">{{ site.title }}</span>
       <!-- style='font-family:"Open Sans" font-weight:300' class = "fs-4 fw-bold" --> 
     </a>
   </div>
-  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto align-items-flex-end">
+  <nav class="d-inline-flex mt-2 mt-md-0 ms-md-auto">
     {% for item in site.data.settings.menu %}
       <a class="title-nav me-3 py-2 text-decoration-none" href="{{ site.github.url }}{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
