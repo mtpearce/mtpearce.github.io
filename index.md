@@ -11,7 +11,7 @@ Leader of the <a href="http://music-cognition.eecs.qmul.ac.uk">Computational Aud
 
 Lead developer on the <a href="https://www.marcus-pearce.com/idyom">IDyOM project</a>.
 
-Author of <a href="https://global.oup.com/academic/product/learning-to-listen-listening-to-learn-9780198848004"><i>Learning to Listen, Listening to Learn: Music Perception and the Psychology of Enculturation</i></a> (2025, Oxford University Press).
+Author of <a href="https://www.marcus-pearce.com/l4"><i>Learning to Listen, Listening to Learn: Music Perception and the Psychology of Enculturation</i></a> (2025, Oxford University Press).
 
 
 
