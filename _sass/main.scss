@@ -244,8 +244,40 @@ li:not(:last-child) {
 }
 
 .l4-right {
-    width: 60%;
+    width: 75%;
     float: right;
     overflow: hidden;
     margin-top: 0px; 
 }
+
+.image-left {
+
+    margin: 1em 0; 
+}
+
+@media (min-width: 20em) {
+
+    .image-left {
+        display: flex;
+        align-items: center;
+    }
+
+    .image-left img {
+        margin-right: 1em;
+        float: left;
+    }
+
+    .image-left::after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+}
+
+@media (min-width: 30em) {
+
+    .image-left img {
+        flex-shrink: 0; 
+    }
+}
+       
