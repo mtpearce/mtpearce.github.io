@@ -237,19 +237,6 @@ li:not(:last-child) {
     }
 }
 
-.l4-left {
-    width: 20%;
-    float: left;
-    // border-right: thin solid $lighter-gray; 
-}
-
-.l4-right {
-    width: 75%;
-    float: right;
-    overflow: hidden;
-    margin-top: 0px; 
-}
-
 .image-left {
 
     margin: 1em 0; 
@@ -263,7 +250,7 @@ li:not(:last-child) {
     }
 
     .image-left img {
-        margin-right: 1em;
+        margin-right: 5em;
         float: left;
     }
 
