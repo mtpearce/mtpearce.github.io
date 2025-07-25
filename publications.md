@@ -11,7 +11,7 @@ title: "Publications"
 
 <li>Pearce, M. T. (2025). <a href="https://www.marcus-pearce.com/l4"><i>Learning to listen, listening to learn: Music perception and the psychology of enculturation</i>.</a> Oxford University Press. <a href="https://doi.org/10.1093/oso/9780198848004.001.0001">https://doi.org/10.1093/oso/9780198848004.001.0001</a></li>
 
-<li>Hall, E. T., & Pearce, M. T. (2025). <a href="assets/papers/HallPearce2025.pdf">Perception of Thematic Structure in Music Over Short and Long Timescales.</a> Music Perception, in press. <a href="https://doi.org/10.1525/mp.2025.2459476">https://doi.org/10.1525/mp.2025.2459476</a>.<\li>
+<li>Hall, E. T., & Pearce, M. T. (2025). <a href="assets/papers/HallPearce2025.pdf">Perception of Thematic Structure in Music Over Short and Long Timescales.</a> Music Perception, in press. <a href="https://doi.org/10.1525/mp.2025.2459476">https://doi.org/10.1525/mp.2025.2459476</a>.</li>
 
 </ul>
 
