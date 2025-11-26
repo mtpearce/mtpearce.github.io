@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Learning to listen, listening to learn"
+title: "PhD Studentship"
 ---
 
-<div>
+<div class="l4">
 
 <h4>PhD Studentship</h4>
 
