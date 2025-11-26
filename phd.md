@@ -9,7 +9,7 @@ title: "Learning to listen, listening to learn"
 
 <h4>Deep Neural Modelling of Music and Speech Perception</h4>
 
-<p>Supervisors: <a href="https://www.marcus-pearce.com/">Dr Marcus Pearce</a> and <a href="">Dr Iran Roman</a></p>
+<h5>Supervisors: <a href="https://www.marcus-pearce.com/">Dr Marcus Pearce</a> and <a href="">Dr Iran Roman</a></h5>
 
 <p>Evidence suggests that speech and music perception depend on cognitive models acquired through cultural exposure via a process of implicit statistical learning. Predictions generated from these models enable efficient and effective processing of rapidly time-varying audio signals leading to culturally appropriate interpretation of meaning. Existing work has successfully simulated these processes of learning and prediction using structured probabilistic models. Meanwhile, deep autoregressive neural network architectures incorporating self-attention have used analogous mechanisms of statistical learning and prediction for convincing generation of language and music. However, it is not known whether these models also simulate perception of speech and music. The proposed project will develop neural network architectures for simulating speech and music perception using existing probabilistic methods both as a benchmark and as a tool for interpreting abstract representations learned by the neural networks. The models will be tested through iterative comparison with behavioural and neural data from psychological experiments with humans. Cross-cultural comparisons of developmental trajectories to adult performance will assess the models as computational simulations of human cultural learning alongside detailed comparisons of the psychological relationships between speech and music. The outcome will be a comprehensive computational understanding of the psychology of human cultural learning in auditory perception.</p>
 
@@ -21,7 +21,9 @@ title: "Learning to listen, listening to learn"
 <li><a href="">The Centre for Digital Music</a></li>
 </ul>
 
-<p>To apply:</p>
+<h5>Application</h5>
+
+<p><b>Deadline:</b> 5pm on 28th January 2026</p>
 
 <ul>
 <li><a href="https://www.qmul.ac.uk/eecs/phd/phd-studentships/csc-phd-studentships-in-electronic-engineering-and-computer-science/">CSC Studentship</a> (Chinese students only) </li>
