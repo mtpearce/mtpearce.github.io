@@ -27,7 +27,7 @@ title: "Learning to listen, listening to learn"
 
 <ul>
 <li><a href="https://www.qmul.ac.uk/eecs/phd/phd-studentships/csc-phd-studentships-in-electronic-engineering-and-computer-science/">CSC Studentship</a> (Chinese students only) </li>
-<li><a href="https://www.qmul.ac.uk/scholarships/items/uk-bame-phd-studentships-1.html">Studentship for underrepresentd groups</a> (UK minority ethnic students only) </li>
+<li><a href="https://www.qmul.ac.uk/scholarships/items/uk-bame-phd-studentships-1.html">Studentship for under-represented groups</a> (UK minority ethnic students only) </li>
 </ul>
 
 </div>
