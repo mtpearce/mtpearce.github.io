@@ -27,7 +27,7 @@ title: "Publications"
 
 <li>Magami, K., Bianco, R., Hall, E., Pearce, M., & Chait, M. (2025). <a href="assets/papers/MagamiEtAl2025.pdf">The Effect of Previously Encountered Sensory Information on Neural Representations of Predictability: Evidence From Human EEG.</a> <i>European Journal of Neuroscience</i>, 62(10), e70300.  <a href=" https://doi.org/10.1111/ejn.70300">https://doi.org/10.1111/ejn.70300</a></li>
 
-<li>Korkor, A., Noreika, V., Di Bernardi Luft, C., & Pearce, M. T. (2025). <a href="assets/papers/KorkorEtal2025.pdf">Relationships between surprise, liking, and error perception in musical listening.</a> <i>Psychology of Aesthetics, Creativity, and the Arts</i>, in press. <a href="https://doi.org/10.1037/aca0000811">https://doi.org/10.1037/aca0000811</a></li>
+<li>Korkor, A., Noreika, V., Di Bernardi Luft, C., & Pearce, M. T. (2025). <a href="assets/papers/KorkorEtAl2025.pdf">Relationships between surprise, liking, and error perception in musical listening.</a> <i>Psychology of Aesthetics, Creativity, and the Arts</i>, in press. <a href="https://doi.org/10.1037/aca0000811">https://doi.org/10.1037/aca0000811</a></li>
 
 <li>Bianco, R., Magami, K., Pearce, M., & Chait, M. (2025). <a href="">Discovery, Interruption, and Updating of Auditory Regularities in Memory: Evidence from Low-Frequency Brain Dynamics in Human MEG.</a> <i>Journal of Neuroscience</i>, e0629252025. <a href="https://doi.org/10.1523/JNEUROSCI.0629-25.2025">https://doi.org/10.1523/JNEUROSCI.0629-25.2025</a></li>
 
