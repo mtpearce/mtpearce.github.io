@@ -5,13 +5,31 @@ title: "Publications"
 
 <p>Full list: <a href="https://scholar.google.co.uk/citations?user=UImWMekAAAAJ">https://scholar.google.co.uk/citations?user=UImWMekAAAAJ</a></p>
 
+<h6>2026</h6>
+
+<ul class="publications">
+
+<li>Bouwer, F. L., Damsma, A., Kaplan, T. M., Sarvestani, M. G., & Pearce, M. T. (2026). <a href="assets/papers/BouwerEtAl2026.pdf">Abstract representations underlie rhythm perception and production: Evidence from a probabilistic model of temporal structure.</a> <i>Cognition</i>, 268, 106345. <a href="https://doi.org/10.1016/j.cognition.2025.106345">https://doi.org/10.1016/j.cognition.2025.106345</a></li>
+
+<li>de Fleurian, R., Clemente, A., Benetos, E., & Pearce, M. T. (2024). <a href="">Expectation elicits music-evoked chills.</a> <i>Nature Communications</i>, in press.</li>
+
+</ul>
+
+<br>
+
 <h6>2025</h6>
 
 <ul class="publications">
 
 <li>Pearce, M. T. (2025). <a href="https://www.marcus-pearce.com/l4"><i>Learning to listen, listening to learn: Music perception and the psychology of enculturation</i>.</a> Oxford University Press. <a href="https://doi.org/10.1093/oso/9780198848004.001.0001">https://doi.org/10.1093/oso/9780198848004.001.0001</a></li>
 
-<li>Hall, E. T., & Pearce, M. T. (2025). <a href="assets/papers/HallPearce2025.pdf">Perception of Thematic Structure in Music Over Short and Long Timescales.</a> Music Perception, in press. <a href="https://doi.org/10.1525/mp.2025.2459476">https://doi.org/10.1525/mp.2025.2459476</a>.</li>
+<li>Hall, E. T., & Pearce, M. T. (2025). <a href="assets/papers/HallPearce2025.pdf">Perception of Thematic Structure in Music Over Short and Long Timescales.</a> <i>Music Perception</i>, 43(2), 105-132. <a href="https://doi.org/10.1525/mp.2025.2459476">https://doi.org/10.1525/mp.2025.2459476</a>.</li>
+
+<li>Magami, K., Bianco, R., Hall, E., Pearce, M., & Chait, M. (2025). <a href="assets/papers/MagamiEtAl2025.pdf">The Effect of Previously Encountered Sensory Information on Neural Representations of Predictability: Evidence From Human EEG.</a> <i>European Journal of Neuroscience</i>, 62(10), e70300.  <a href=" https://doi.org/10.1111/ejn.70300">https://doi.org/10.1111/ejn.70300</a></li>
+
+<li>Korkor, A., Noreika, V., Di Bernardi Luft, C., & Pearce, M. T. (2025). <a href="assets/papers/KorkorEtal2025.pdf">Relationships between surprise, liking, and error perception in musical listening.</a> <i>Psychology of Aesthetics, Creativity, and the Arts</i>, in press. <a href="https://doi.org/10.1037/aca0000811">https://doi.org/10.1037/aca0000811</a></li>
+
+<li>Bianco, R., Magami, K., Pearce, M., & Chait, M. (2025). <a href="assets/papers/BiancoEtAl2025.pdf">Discovery, Interruption, and Updating of Auditory Regularities in Memory: Evidence from Low-Frequency Brain Dynamics in Human MEG.</a> <i>Journal of Neuroscience</i>, e0629252025. <a href="https://doi.org/10.1523/JNEUROSCI.0629-25.2025">https://doi.org/10.1523/JNEUROSCI.0629-25.2025</a><\li>
 
 </ul>
 
