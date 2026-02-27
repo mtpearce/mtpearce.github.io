@@ -54,7 +54,7 @@ title: "Publications"
 
 <li>Zioga, I., Harrison, P. M. C., Pearce, M. T., Bhattacharya, J., Di, C., & Luft, B. (2024). <a href="assets/papers/ZiogaEtAl2024.pdf">The association between liking, learning and creativity in music.</a> <i>Scientific Reports</i>, 14, 19048. <a href="https://doi.org/10.1038/s41598-024-70027-z">https://doi.org/10.1038/s41598-024-70027-z</a></li>
 
-<li>Clemente, A., Board, F., Pearce, M. T., & Orgs, G. (2024). <a href="assets/papers/ClementeEtAl2024-PACA.pdf">Dynamic complexity in audiovisual aesthetics. <i>Psychology of Aesthetics, Creativity, and the Arts</i>, in press. <a href="https://doi.org/10.1037/aca0000685">https://doi.org/10.1037/aca0000685</a></li>
+<li>Clemente, A., Board, F., Pearce, M. T., & Orgs, G. (2024). <a href="assets/papers/ClementeEtAl2024-PACA.pdf">Dynamic complexity in audiovisual aesthetics.</a> <i>Psychology of Aesthetics, Creativity, and the Arts</i>, in press. <a href="https://doi.org/10.1037/aca0000685">https://doi.org/10.1037/aca0000685</a></li>
 
 </ul>
 
