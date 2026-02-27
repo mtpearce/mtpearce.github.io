@@ -11,6 +11,8 @@ title: "Publications"
 
 <li>Bouwer, F. L., Damsma, A., Kaplan, T. M., Sarvestani, M. G., & Pearce, M. T. (2026). <a href="assets/papers/BouwerEtAl2026.pdf">Abstract representations underlie rhythm perception and production: Evidence from a probabilistic model of temporal structure.</a> <i>Cognition</i>, 268, 106345. <a href="https://doi.org/10.1016/j.cognition.2025.106345">https://doi.org/10.1016/j.cognition.2025.106345</a></li>
 
+<li>Bianco, R., Magami, K., Pearce, M., & Chait, M. (2026). <a href="assets/papers/BiancoEtAl2026.pdf">Discovery, Interruption, and Updating of Auditory Regularities in Memory: Evidence from Low-Frequency Brain Dynamics in Human MEG.</a> <i>Journal of Neuroscience</i>, e0629252025. <a href="https://doi.org/10.1523/JNEUROSCI.0629-25.2025">https://doi.org/10.1523/JNEUROSCI.0629-25.2025</a></li>
+
 <li>de Fleurian, R., Clemente, A., Benetos, E., & Pearce, M. T. (2026). <a href="">Melodic expectation as an elicitor of music-evoked chills.</a> <i>Nature Communications</i>, in press.</li>
 
 </ul>
@@ -29,7 +31,6 @@ title: "Publications"
 
 <li>Korkor, A., Noreika, V., Di Bernardi Luft, C., & Pearce, M. T. (2025). <a href="assets/papers/KorkorEtAl2025.pdf">Relationships between surprise, liking, and error perception in musical listening.</a> <i>Psychology of Aesthetics, Creativity, and the Arts</i>, in press. <a href="https://doi.org/10.1037/aca0000811">https://doi.org/10.1037/aca0000811</a></li>
 
-<li>Bianco, R., Magami, K., Pearce, M., & Chait, M. (2025). <a href="">Discovery, Interruption, and Updating of Auditory Regularities in Memory: Evidence from Low-Frequency Brain Dynamics in Human MEG.</a> <i>Journal of Neuroscience</i>, e0629252025. <a href="https://doi.org/10.1523/JNEUROSCI.0629-25.2025">https://doi.org/10.1523/JNEUROSCI.0629-25.2025</a></li>
 
 </ul>
 
@@ -52,6 +53,8 @@ title: "Publications"
 <li>van der Weij, B., Pearce, M. T., & Honing, H. (2024). <a href="assets/papers/VanDerWeijEtAl2024.pdf">Computational modelling of rhythm perception and the role of enculturation.</a> In D. Shanahan, J. A. Burgoyne, & I. Quinn (Eds.) <i>Oxford Handbook of Music and Corpus Studies.</i> Oxford University Press. <a href="https://doi.org/10.1093/oxfordhb/9780190945442.013.13">https://doi.org/10.1093/oxfordhb/9780190945442.013.13</a></li>
 
 <li>Zioga, I., Harrison, P. M. C., Pearce, M. T., Bhattacharya, J., Di, C., & Luft, B. (2024). <a href="assets/papers/ZiogaEtAl2024.pdf">The association between liking, learning and creativity in music.</a> <i>Scientific Reports</i>, 14, 19048. <a href="https://doi.org/10.1038/s41598-024-70027-z">https://doi.org/10.1038/s41598-024-70027-z</a></li>
+
+<li>Clemente, A., Board, F., Pearce, M. T., & Orgs, G. (2024). <a href="assets/papers/ClementeEtAl2024-PACA.pdf">Dynamic complexity in audiovisual aesthetics. <i>Psychology of Aesthetics, Creativity, and the Arts</i>, in press. <a href="https://doi.org/10.1037/aca0000685">https://doi.org/10.1037/aca0000685</a></li>
 
 </ul>
 
