@@ -13,6 +13,10 @@ title: "Publications"
 
 <li>Bianco, R., Magami, K., Pearce, M., & Chait, M. (2026). <a href="assets/papers/BiancoEtAl2026.pdf">Discovery, Interruption, and Updating of Auditory Regularities in Memory: Evidence from Low-Frequency Brain Dynamics in Human MEG.</a> <i>Journal of Neuroscience</i>, e0629252025. <a href="https://doi.org/10.1523/JNEUROSCI.0629-25.2025">https://doi.org/10.1523/JNEUROSCI.0629-25.2025</a></li>
 
+<li>Winnard, C., Mikkelsen, K., Kidmose, P., & Pearce, M. (2026). <a href="assets/papers/WinnardEtAl2026.pdf">Music emotion recognition with cEEGrid.</a> <i>Journal of Neural Engineering</i>, 23(4), 046057. <a href="https://doi.org/10.1088/1741-2552/ae94b1">https://doi.org/10.1088/1741-2552/ae94b1</a>.</li>
+
+<li>Lumaca, M., Pearce, M.T., Keller, P.E., Vuust, P., Brattico, E., Baggio, G., Hat, K., Heggli, O.A. and Sandberg, K., 2026. <a href="assets/papers/LumacaEtAl2026.pdf">Decoding everyday levels of musical training from subcortical white-matter architecture.</a> <i>Imaging Neuroscience</i>, 4, IMAG-a.1325. <a href="https://doi.org/10.1162/IMAG.a.1325">https://doi.org/10.1162/IMAG.a.1325</a>.</li>
+
 <li>de Fleurian, R., Clemente, A., Benetos, E., & Pearce, M. T. (2026). <a href="">Melodic expectation as an elicitor of music-evoked chills.</a> <i>Nature Communications</i>, in press.</li>
 
 </ul>
