@@ -3,11 +3,9 @@ layout: home
 title: "Home"
 ---
 
-<a href="https://www.seresearch.qmul.ac.uk/chcc/people/mpearce">Reader in Cognitive Science</a> at Queen Mary University of London (QMUL), United Kingdom.
+<a href="https://www.seresearch.qmul.ac.uk/chcc/people/mpearce">Reader in Cognitive Science</a> at Queen Mary University of London (QMUL), United Kingdom. Member of the <a href="https://www.seresearch.qmul.ac.uk/cmai/">Centre for Multi-Modal AI</a>, the <a href="https://c4dm.eecs.qmul.ac.uk/">Centre for Digital Music</a>, and the <a href="https://www.seresearch.qmul.ac.uk/chcc/">Centre for Human-Centred Computing</a>. Leader of the <a href="http://music-cognition.eecs.qmul.ac.uk">Computational Auditory Perception Lab</a>.
 
-<a href="https://pure.au.dk/portal/en/persons/marcus-pearce(f0db7f72-b766-44d2-aece-e5f85ddbf172).html">Honorary Professor of Neuroscience</a> at Aarhus University, Denmark.
-
-Leader of the <a href="http://music-cognition.eecs.qmul.ac.uk">Computational Auditory Perception Lab</a> at QMUL.
+<a href="https://www.au.dk/en/marcus.pearce@clin.au.dk">Honorary Professor of Neuroscience</a> at Aarhus University, Denmark. Member of the <a href="https://musicinthebrain.au.dk/">Centre for Music in the Brain</a>.
 
 Lead developer on the <a href="https://www.marcus-pearce.com/idyom">IDyOM project</a>.
 
